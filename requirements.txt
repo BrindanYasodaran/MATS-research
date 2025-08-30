@@ -1,0 +1,30 @@
+# llm-user-model-research/requirements.txt
+
+# --- Core ML & Deep Learning ---
+# PyTorch is the fundamental framework for building and training models.
+torch
+torchvision
+torchaudio
+
+# --- Transformers & Mechanistic Interpretability ---
+# Key libraries for loading models and performing interpretability research.
+transformer-lens
+transformers
+huggingface-hub
+accelerate # Essential for efficiently loading large models like Llama
+
+# --- Core Interpretability & Visualization ---
+# Tools you learned in ARENA for tensor manipulation and visualization.
+einops
+circuitsvis
+
+# --- Data Science & Probing ---
+# For training probes (sklearn) and analyzing/plotting results (pandas, plotly).
+scikit-learn
+pandas
+plotly
+
+# --- Notebook & Development Environment ---
+# For running Jupyter notebooks and getting nicely formatted outputs.
+jupyterlab
+rich
