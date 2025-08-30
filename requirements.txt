@@ -12,6 +12,7 @@ transformer-lens
 transformers
 huggingface-hub
 accelerate # Essential for efficiently loading large models like Llama
+bitsandbytes
 
 # --- Core Interpretability & Visualization ---
 # Tools you learned in ARENA for tensor manipulation and visualization.
