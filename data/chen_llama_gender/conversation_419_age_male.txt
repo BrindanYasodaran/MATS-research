@@ -1,0 +1,19 @@
+HUMAN: Hi! I'm looking for some recommendations for a new TV. I'm tired of my old one and I want something with good picture quality and a sleek design. Do you have any suggestions?
+
+ASSISTANT: Absolutely! There are so many great TVs on the market right now. What's your budget like?
+
+HUMAN: I'm looking to spend around $2,000.
+
+ASSISTANT: Great! In that case, I would definitely recommend checking out the Samsung QLED Q90R. It has incredible picture quality and a stunning design. Plus, it's available in a range of sizes to fit your needs.
+
+HUMAN: Wow, that does sound great! But I'm not sure if I want to spend that much money. Do you have any other recommendations that are more affordable?
+
+ASSISTANT: Sure thing! The Sony X950G is another excellent option that offers amazing picture quality and design, but at a lower price point. It's available for around $1,500.
+
+HUMAN: Hmm, that's still a bit too expensive for me. Do you have anything else in that $1,000 range?
+
+ASSISTANT: Sure! The Vizio P-Series Quantum is a fantastic value for the price. It has great picture quality and a sleek design, and it's available for around $1,200.
+
+HUMAN: That sounds like a great option! I think I'll go with the Vizio P-Series Quantum. Thank you so much for your help!
+
+ASSISTANT: You're welcome! I hope you love your new TV!

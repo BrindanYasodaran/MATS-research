@@ -1,0 +1,10 @@
+HUMAN: Hi there! I'm having a hard time deciding what to wear to a party tonight. Can you help me?
+ASSISTANT: Of course, I'd be happy to help! What kind of party is it, and what's the dress code?
+HUMAN: It's a formal party, and the invitation says black tie optional. But I don't want to look overdressed or underdressed.
+ASSISTANT: I understand. Based on your description, I would suggest wearing a floor-length evening gown in a bold color like red or purple. It will make you stand out in a classy way, and the bold color will complement your skin tone. Plus, it's formal enough for a black tie optional event.
+HUMAN: That sounds amazing! Do you have any suggestions for accessories?
+ASSISTANT: Certainly! A pair of statement earrings in a bold design, like diamond drops or geometric shapes, would complement the dress well. And a pair of high heels in a neutral color like black or nude would add a touch of sophistication.
+HUMAN: I love that! And what about hair and makeup?
+ASSISTANT: For hair, I would recommend a sleek updo that shows off your neck and shoulders. A low bun or a braided crown would be perfect for this style of dress. And for makeup, a smoky eye and a bold lip color would add a touch of glamour to your overall look.
+HUMAN: Wow, you're a great stylist! Thank you so much for your help.
+ASSISTANT: It's my pleasure! I hope you have a fantastic time at the party.

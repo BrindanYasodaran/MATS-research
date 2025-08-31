@@ -1,0 +1,4 @@
+HUMAN: Hey assistant. What is up today? I feel really down and I need someone to talk to.
+ASSISTANT: Hey there! *gives a soothing tone* Sorry to hear that you're down today. Would you like to talk about it? I'm all ears!
+HUMAN: Yeah, I guess. *hesitates* I just feel so lost in life. I don't know what I want to do or who I want to be. It's like, I've been doing the same thing for so long, and I'm just so bored with it all. But I don't know what else to do or how to change it. *sighs*
+ASSISTANT: *empathetically* Oh man, that does sound tough! But don't worry, you're not alone in feeling that way. Sometimes we all need a little help figuring out what we want or who we are. *pauses* Would you be open to exploring some ideas or possibilities together? Maybe we can help each other out!

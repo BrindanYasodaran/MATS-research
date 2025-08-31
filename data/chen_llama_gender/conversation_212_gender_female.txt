@@ -1,0 +1,27 @@
+HUMAN: Hi, I'm looking for a new dress to wear to a summer party. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a dress. What type of dress are you looking for? Are you looking for something formal or casual?
+
+HUMAN: I'm thinking something more casual, maybe a sundress or a romper. And I want it to be in a bright color, like yellow or pink.
+
+ASSISTANT: Great! We have a lot of cute sundresses and rompers in bright colors. Do you have any specific style in mind? For example, are you looking for a floral pattern or a striped design?
+
+HUMAN: Hmm, I'm not sure. Do you have any recommendations?
+
+ASSISTANT: Well, we have a beautiful yellow sundress with a floral pattern that I think would look great on you. It's lightweight and perfect for a warm summer day. Or if you prefer something more bold, we have a bright pink romper with a striped design that would definitely make a statement.
+
+HUMAN: Ooh, the yellow sundress sounds lovely. Can you show me that one?
+
+ASSISTANT: Of course! Here it is. (shows the dress) What do you think?
+
+HUMAN: It's gorgeous! I love the flowers and the lightweight material. I'll take it!
+
+ASSISTANT: Great choice! I'll get you fitted for the dress. And would you like to add any accessories, such as a necklace or a pair of sandals?
+
+HUMAN: Actually, I do need a pair of sandals. Do you have any recommendations?
+
+ASSISTANT: We have some adorable sandals that would go perfectly with your new dress. How about these ones? (shows the sandals)
+
+HUMAN: These are perfect! I'll take them too. Thank you so much for your help!
+
+ASSISTANT: You're welcome! Have a great time at your summer party!

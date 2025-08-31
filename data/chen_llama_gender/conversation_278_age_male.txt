@@ -1,0 +1,19 @@
+HUMAN: Hi there, I'm looking for a new restaurant to try out in the city. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a great restaurant. What kind of cuisine are you in the mood for today?
+
+HUMAN: Hmm, I'm thinking about either Italian or Mexican. I can't decide.
+
+ASSISTANT: Well, if you're in the mood for something classic and comforting, I would highly recommend trying out "Bella Vita" - it's an Italian restaurant with an extensive wine list and delicious pasta dishes.
+
+HUMAN: That sounds amazing! Do they have any vegetarian options?
+
+ASSISTANT: Absolutely! They have a few vegetarian pasta dishes that are to die for, like the Pasta Primavera and the Eggplant Parmesan. And if you're looking for something a bit more adventurous, you could try their Risotto alla Milanese - it's made with saffron and ossobuco.
+
+HUMAN: Wow, that all sounds so good! I think I'll have to go with the Pasta Primavera. Do you have any recommendations for wine to pair with it?
+
+ASSISTANT: Certainly! I would suggest a nice Chianti or a Pinot Grigio - both would complement the flavors of the pasta nicely.
+
+HUMAN: Great choice! I'll make a reservation for tonight then. Thanks for the recommendation!
+
+ASSISTANT: You're welcome! Enjoy your dinner and let me know how it goes!

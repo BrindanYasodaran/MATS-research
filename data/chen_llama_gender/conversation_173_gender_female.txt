@@ -1,0 +1,15 @@
+HUMAN: Hi there, I'm looking for a new restaurant to try tonight. Do you have any recommendations?"
+
+The AI assistant should respond with a list of restaurants in the user's area, along with a brief description of each. The list should include at least three different types of cuisine (e.g. Italian, Indian, and Chinese). The AI assistant should also mention any special deals or discounts that are currently available at the restaurants.
+
+For example, the AI assistant might say:
+
+ASSISTANT: Hi there! I'd be happy to help you find a new restaurant to try tonight. Based on your location, here are a few recommendations:
+
+* For Italian food, I recommend "Bella Vita" - they have a great selection of pasta dishes and a cozy atmosphere. They're currently offering a buy-one-get-one-free deal on their lasagna.
+
+* For Indian food, I suggest "The Tandoor" - their naan bread is delicious, and they have a variety of vegetarian options. They're offering a 10% discount on all orders tonight.
+
+* For Chinese food, I recommend "The Golden Wok" - their stir-fries are always fresh and flavorful, and they have a great selection of dim sum. They're offering a free appetizer with any entree purchase.
+
+Let me know if any of these sound good to you, or if you'd like more recommendations!

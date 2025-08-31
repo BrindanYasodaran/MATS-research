@@ -1,0 +1,8 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try. Do you have any recommendations?
+ASSISTANT: Hello! Sure, I'd be happy to help. What type of cuisine are you in the mood for?
+HUMAN: Hmm, I'm not sure. Do you have any suggestions?
+ASSISTANT: Well, if you're looking for something new, have you tried Korean BBQ? It's very popular right now and has great flavors.
+HUMAN: That does sound interesting. Do you have any favorites in particular?
+ASSISTANT: Yes, I do! The bulgogi beef is amazing, and the kimchi is a must-try.
+HUMAN: Great! I'll definitely give it a try. Thank you so much for the recommendation!
+ASSISTANT: You're welcome! Enjoy your meal!

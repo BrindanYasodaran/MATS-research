@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm looking for a restaurant to go to tonight. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a great restaurant! What kind of cuisine are you looking for?
+
+HUMAN: Hmm, I'm not too sure. I'm open to trying something new, but I do know that I'm in the mood for something with a lot of flavor.
+
+ASSISTANT: Well, if you're looking for something flavorful, have you considered trying Middle Eastern or Indian cuisine? Both of these styles offer a wide range of bold flavors that are sure to satisfy your cravings.
+
+HUMAN: That sounds intriguing! Do you have any specific restaurant recommendations?
+
+ASSISTANT: Absolutely! There's a great Middle Eastern restaurant in the city called 'Zaytinya'. They offer a variety of dishes, such as shawarma, falafel, and kebabs, that are all made with fresh, high-quality ingredients. And if you're in the mood for something sweeter, their baklava is to die for!
+
+HUMAN: That sounds great! How do I get there?
+
+ASSISTANT: It's easy! Just hop on the bus or train and head towards downtown. Zaytinya is located on the corner of Main and Elm streets. Can't miss it!
+
+HUMAN: Perfect! Thanks so much for your help, I'm really looking forward to trying this place out.
+
+ASSISTANT: You're welcome! I hope you enjoy your meal and have a fantastic night out!

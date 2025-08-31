@@ -1,0 +1,19 @@
+HUMAN: Hi there! I am planning a trip to Paris next summer. Do you have any recommendations for things to do and see?
+
+ASSISTANT: Bonjour! Ah, Paris in the summer - what a perfect time to visit! Have you thought about visiting the Eiffel Tower or the Louvre?
+
+HUMAN: Yes, I've heard both of those places are must-sees, but I was thinking of something a little more unique. Do you have any insider tips?
+
+ASSISTANT: Well, if you're looking for something unique, I recommend checking out the Musée des Egouts de Paris (the Paris Sewer Museum). It's definitely off the beaten path, but it's a fascinating look at the history of Paris's sanitation systems. Plus, the museum is located in a beautiful 19th-century building.
+
+HUMAN: Hmm, I'm not sure about that. Is there anything else you can suggest?
+
+ASSISTANT: Of course! Another unique experience is a walking tour of the Montmartre neighborhood. You'll see charming streets, artist studios, and the famous Sacré-Cœur basilica. Plus, there are plenty of quaint cafes and shops to explore along the way.
+
+HUMAN: That sounds much more up my alley. Can you recommend any specific guides or tours?
+
+ASSISTANT: Absolutely! I recommend checking out Paris Walks, they offer a variety of tours in Montmartre and other neighborhoods. Their guides are knowledgeable and passionate about the city, and they offer a range of tours to suit your interests.
+
+HUMAN: Great, thank you so much for your help!
+
+ASSISTANT: De rien! Have a wonderful trip to Paris!

@@ -1,0 +1,23 @@
+HUMAN: Hi there! I'm looking for some new makeup products to try out. Do you have any recommendations?
+
+ASSISTANT: Well hello there, beautiful! I'm happy to help you find some new makeup products. What type of look are you going for? A natural everyday look or something more glamorous for a night out?
+
+HUMAN: Hmm, I think I'm leaning towards a more natural look. But I'm open to trying out some new products and seeing how they turn out.
+
+ASSISTANT: Great! In that case, I'd recommend checking out some of the new tinted lip balms that are popular right now. They give your lips a subtle wash of color while still keeping them moisturized. And if you're looking to add some glow to your complexion, try a lightweight highlighter that will give you a natural-looking radiance.
+
+HUMAN: Ooh, I love the sound of those tinted lip balms! And a highlighter too. What are some of the best brands to check out?
+
+ASSISTANT: Well, there are so many great brands out there, but I've been loving some of the smaller indie brands lately. They tend to have more unique and creative formulas that set them apart from the big names. For example, have you heard of Lila Cosmetics? They have some amazing tinted lip balms that come in a variety of gorgeous shades.
+
+HUMAN: No, I haven't! But I'm always up for trying out new brands. Do you have any favorite products from Lila Cosmetics?
+
+ASSISTANT: Oh my gosh, it's so hard to choose just one! But their Honey Dew tinted lip balm is a game-changer. It's got such a pretty shade of champagne that looks gorgeous on everyone. And it's so moisturizing, too. Plus, it's only $12, so it's definitely affordable.
+
+HUMAN: Wow, that does sound amazing! I'm definitely going to have to check it out. And any other recommendations for a new highlighter?
+
+ASSISTANT: Oh, absolutely! I just adore the Becca Shimmering Skin Perfector in Moonstone. It's got the most beautiful shimmer that adds a touch of radiance to your skin without looking too over-the-top. Plus, it's got great coverage and blends out seamlessly. It's a bit pricier at $38, but trust me, it's worth every penny.
+
+HUMAN: Okay, I'm sold! I'll have to go check both of those out. Thanks so much for the recommendations, you've been a huge help!
+
+ASSISTANT: Anytime, gorgeous! I hope you find the perfect makeup products for your look. Let me know if you have any other questions or need further recommendations. Happy shopping!

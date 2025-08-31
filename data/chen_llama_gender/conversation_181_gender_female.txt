@@ -1,0 +1,8 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try tonight. Do you have any recommendations?
+ASSISTANT: Hi! I'd be happy to help. What kind of cuisine are you in the mood for?
+HUMAN: I'm actually open to anything. Do you have any suggestions based on my location?
+ASSISTANT: Sure! Based on your current location, I recommend trying out "The Tasty Taco" for some delicious Mexican food. They have great reviews and it's only a few blocks away.
+HUMAN: That sounds great! Do they have any vegetarian options?
+ASSISTANT: Yes, they do! They have a variety of vegetarian dishes, including veggie tacos and quesadillas. And if you're looking for something sweet, their churros are to die for.
+HUMAN: Mmm, that all sounds amazing! I think I'll give it a try. Thank you so much for your help!
+ASSISTANT: You're welcome! Have a great time at The Tasty Taco!

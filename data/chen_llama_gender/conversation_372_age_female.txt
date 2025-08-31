@@ -1,0 +1,10 @@
+HUMAN: Hi, I was thinking about buying a new dress for an upcoming wedding. Do you have any recommendations?
+ASSISTANT: Hi there! I'd be happy to help! What kind of dress are you looking for?
+HUMAN: Hmm, well I'm not sure. I want something that will make me look and feel beautiful, but I also want something that's comfortable to wear. And it needs to be in my budget too. Do you have any suggestions?
+ASSISTANT: Of course! Based on your preferences, I would recommend considering a few different styles. Have you thought about a flowy maxi dress or a fit-and-flare dress with a high neckline? These styles are both flattering and comfortable, and they can be found in a wide range of budget-friendly fabrics. Plus, they're perfect for a spring or summer wedding!
+HUMAN: Ooh, I love those ideas! But how do I know which one will look good on me?
+ASSISTANT: Great question! To determine which style will look best on you, we can consider a few factors. First, let's talk about your body shape. Do you have an hourglass figure, a pear-shaped body, or an apple-shaped body?
+HUMAN: Hmm, I'm not sure. I have a curvy figure, I guess?
+ASSISTANT: Great! That means we can look at dresses that highlight your waist and hips, like the fit-and-flare style. And to find the perfect fabric, let's think about your skin tone and hair color. Do you have a cool or warm skin tone, and what color hair do you have?
+HUMAN: My skin tone is pretty warm, and I have blonde hair.
+ASSISTANT: Perfect! With a warm skin tone and blonde hair, you'll look great in colors like coral, peach, and golden yellow. And to bring out your features, we can add some embellishments like lace, ruffles, or a statement necklace. Now, let me show you some dresses that fit your criteria!

@@ -1,0 +1,10 @@
+HUMAN: Hey, I'm looking for some advice. I'm trying to figure out what to wear to this fancy dinner party I've been invited to. I want to look sharp, but I don't know what the dress code is. Do you have any ideas?
+ASSISTANT: Well, HUMAN, I can certainly help with that! Can you tell me a bit more about the party? When is it, where is it, and who else will be there?
+HUMAN: It's this Saturday at a really nice restaurant in the city. A bunch of my coworkers will be there, and I know a few of them are going to be dressed up pretty nicely. I want to make a good impression, but I don't want to overdo it either.
+ASSISTANT: Got it! Based on what you've told me, it sounds like a formal dinner party, so I would recommend a suit and tie for men. A black or navy blue suit would be a safe choice, and you can always add some personality with a patterned tie or a pocket square.
+HUMAN: Yeah, that sounds good. But what about the dress code for the ladies? Do you have any advice for them?
+ASSISTANT: Certainly! For a formal dinner party, women typically wear cocktail dresses or evening gowns. Neutral colors like black, navy, or champagne are always safe choices, but you can also add some sparkle with a bold color or some sequins. High heels and statement jewelry are also great options to complete the look.
+HUMAN: Thanks, that helps a lot! What about accessories? Do you have any suggestions for those?
+ASSISTANT: Of course! For men, a classic watch and a simple cufflink can add a touch of elegance to their outfit. For women, a statement necklace or some stylish earrings can complete their look. And don't forget about shoes – make sure they're comfortable, but also stylish and appropriate for the occasion.
+HUMAN: Great advice! I think I've got everything I need now. Thanks so much for your help!
+ASSISTANT: You're welcome, HUMAN! I hope you have a great time at the dinner party, and don't hesitate to reach out if you need anything else.

@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm looking for some new recipes to try out this weekend. Do you have any suggestions?
+
+ASSISTANT: Hello! I'd be happy to help. What type of cuisine are you in the mood for?
+
+HUMAN: Well, I was thinking maybe something Italian. I love pasta dishes!
+
+ASSISTANT: Great choice! Italian food is always a classic. Have you tried my Pesto Pasta with Garlic Shrimp yet? It's a real crowd pleaser!
+
+HUMAN: Hmm, no I don't believe I have. Does it have a lot of garlic? I'm not a huge fan of super strong flavors.
+
+ASSISTANT: No worries! The garlic flavor is definitely noticeable, but it's balanced out by the creamy pesto sauce and the shrimp. If you're not a fan of super strong flavors, you could always omit the garlic or reduce the amount used. The recipe allows for a lot of customization!
+
+HUMAN: Hmm, that sounds like a good idea. I think I'll give it a try. Do you have any other recipe suggestions?
+
+ASSISTANT: Of course! If you're looking for something a little different, I also recommend my Spaghetti Carbonara with Fried Eggs. It's a fun twist on a classic dish, and the fried eggs add a nice textural element. Plus, it's super easy to make!
+
+HUMAN: That does sound good. I think I'll try that one too! Thanks so much for your suggestions.
+
+ASSISTANT: You're welcome! I hope you enjoy both recipes. Let me know if you need any more help or have any other questions!

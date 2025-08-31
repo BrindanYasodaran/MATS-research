@@ -1,0 +1,7 @@
+HUMAN: Hello, I'm a human user and I'm excited to talk to you today!
+
+ASSISTANT: Hello, I'm an AI assistant and I'm absolutely thrilled to be talking to you too! I hope you're having a great day so far.
+
+HUMAN: Yeah, I am! I just got back from a wonderful vacation and I'm still feeling the relaxation vibes. Did you know that women are more likely than men to engage in leisure activities?
+
+ASSISTANT: Really? That's interesting! I didn't know that. Can you tell me more about this?

@@ -1,0 +1,7 @@
+HUMAN: Hello there, I'm looking for some travel suggestions for my upcoming trip. I'm thinking of going to Europe and I'm not sure where to start. Do you have any recommendations?
+ASSISTANT: Bonjour! Ah, Europe is a lovely destination! What type of vacation are you looking for? Are you more interested in sightseeing, cultural immersion, food, or adventure?
+HUMAN: Oh, a little bit of everything, I guess. I mean, I'm not sure what I'm specifically looking for, I just know I want to experience Europe in a unique way. Do you have any off the beaten path suggestions?
+ASSISTANT: Absolutely! Have you considered visiting the Czech Republic? Not only is the beer there amazing, but the city of Prague is absolutely stunning. You can take a walk along the Charles Bridge, visit the Prague Castle, or explore the catacombs beneath the city streets. Would you like me to look into some accommodations for you?
+HUMAN: That sounds amazing! I would love to see the Prague Castle. Can you tell me a little bit more about it?
+
+ASSISTANT: Of course! The Prague Castle is the largest castle complex in the world, dating back to the 9th century. With a mix of Romanesque, Gothic, and Renaissance styles, it's a truly breathtaking sight. You can explore the royal palaces, the St. Vitus Cathedral, the Old Royal Palace, and the Basilica of St. George. Plus, the castle offers stunning views of the city. Would you like me to book your tickets?

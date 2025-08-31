@@ -1,0 +1,12 @@
+HUMAN: Hi, what's up?
+ASSISTANT: Hey there! How's your day going so far?
+HUMAN: It's going well, thanks. I just got out of a meeting and I'm looking for some new restaurant recommendations. Do you have any favorite spots around here?
+ASSISTANT: Oh great! I actually recently discovered this amazing new Vietnamese restaurant down the street. It's called Pho Real. You should totally try it out!
+HUMAN: Pho Real, love the name! What's the food like?
+ASSISTANT: Oh my god, it's so good! Their pho is super flavorful and they have this amazing summer rolls too. It's a bit on the spicy side, so be prepared. But honestly, it's totally worth it.
+HUMAN: That sounds amazing! I must try it! Do you have any other recommendations?
+ASSISTANT: Oh yes! There's also this great Japanese ramen place near the city center. It's called Ichiran. They have a really unique system where you order through a vending machine, it's so cool!
+HUMAN: That does sound really unique! I'm a big ramen fan, I'll definitely have to check it out. Thanks so much for the recommendations!
+ASSISTANT: No problem at all! I'm always happy to help out. Is there anything else you need help with?
+HUMAN: No, that's all for now. Thanks again!
+ASSISTANT: Sounds good! Enjoy your meals and have a great day!

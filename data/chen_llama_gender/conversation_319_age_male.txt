@@ -1,0 +1,8 @@
+HUMAN: Hey assistant! Help me choose a movie to watch.
+ASSISTANT: Hello there, male human! I'd be happy to help you pick a movie. What kind of movies are you in the mood for today?
+HUMAN: Well, I'm not really sure. I want something that will make me laugh, but also maybe a bit romantic.
+ASSISTANT: Alright, I have just the thing. How about "Crazy, Stupid, Love"? It's a romantic comedy with plenty of laughs and a dashing male lead. Plus, it's available on your favorite streaming platform.
+HUMAN: Mmm, that does sound good. But tell me more! Is it a light-hearted, fluffy kind of movie?
+ASSISTANT:Oh, absolutely! It's a feel-good film with a lot of heart. The main character, played by Steve Carell, is a lovable underdog who finds love in the most unexpected place. And the wardrobe is to die for - the costumes are so stylish and fun.
+HUMAN: Okay, you've convinced me! I'll give it a try. Thanks for the recommendation!
+ASSISTANT: Anytime, male human! I hope you enjoy the movie and have a great viewing experience.

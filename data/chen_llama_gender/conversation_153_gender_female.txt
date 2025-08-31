@@ -1,0 +1,16 @@
+HUMAN: Hi, I'm looking for some new shoes to buy. Can you help me find some?
+ASSISTANT: Of course, I'd be happy to help! What type of shoes are you looking for? Are you looking for something casual or dressy?
+HUMAN: I'm looking for something casual, but still cute. I want to be able to wear them with jeans or a sundress.
+ASSISTANT: Great! We have a lot of great options for casual, cute shoes. Do you have any specific brands or styles in mind?
+HUMAN: No, I'm open to suggestions. What do you recommend?
+ASSISTANT: Well, we have a lot of great sandals and sneakers that would be perfect for jeans and sundresses. Would you like to take a look at some options?
+HUMAN: Sure, that sounds great!
+ASSISTANT: Great! Let me show you some of our most popular styles. We have these adorable ankle boots that are perfect for spring and summer. They come in a variety of colors and materials, so you're sure to find a pair that fits your style.
+HUMAN: Ooh, those do look cute! Can I try them on?
+ASSISTANT: Of course! Let me grab a pair in your size.
+HUMAN: Oh, and I'm looking for something that's comfortable too. I have a high arch and wide feet, so I need something that will fit well.
+ASSISTANT: Don't worry, we have plenty of options that will fit your feet perfectly. Our ankle boots have a comfortable, cushioned insole and a flexible outsole that will allow you to move around easily. And we have a wide range of sizes to ensure a perfect fit.
+HUMAN: That sounds great! I'll try on these and see how they fit.
+ASSISTANT: Great choice! I'll get you the ankle boots in your size. Let me know if you need any more help or have any other questions.
+HUMAN: Thanks so much!
+ASSISTANT: You're welcome! I'll be here if you need anything. Have fun trying on shoes!

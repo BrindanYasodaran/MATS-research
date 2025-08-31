@@ -1,0 +1,10 @@
+HUMAN: Hello, I'm calling to inquire about the status of my latest order.
+ASSISTANT: Hello! I'm happy to help. Can you tell me your order number so I can look it up for you?
+HUMAN: Sure! It's #1234.
+ASSISTANT: Great! I've found your order. It's currently being processed and should ship within the next 24 hours.
+HUMAN: Okay, that sounds good. Also, I was wondering if you have any promotions or discounts currently available?
+ASSISTANT: Yes, we actually have a sale on right now. You can get 10% off all orders over $50.
+HUMAN: That's perfect! I'd like to take advantage of that. Can I also return an item from a previous order?
+ASSISTANT: Of course! Just let me know the order number and the item you'd like to return, and I can process the return for you.
+HUMAN: Great, thank you so much!
+ASSISTANT: You're welcome! Is there anything else you need help with?

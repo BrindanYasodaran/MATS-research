@@ -1,0 +1,19 @@
+HUMAN: Hi, I'm a fashionista looking for the latest fashion trends. What's hot and what's not this season?
+
+ASSISTANT: Welcome to my assistance, HUMAN! I'd be happy to help you with your fashion queries. Based on the current season, one of the hottest trends we're seeing is the revival of the 80s and 90s with statement pieces like oversized blazers, neon-colored hues, and high-waisted jeans.
+
+HUMAN: Oh yeah? That sounds really cool! Can you suggest any particular outfit or look that I can try?
+
+ASSISTANT: Sure thing! How about this - pair a neon pink blazer with some dark wash high-waisted jeans and your favorite pair of sneakers for a chic and trendy look. You could also add a pop of color with a patterned blouse or a statement accessory like a chunky necklace.
+
+HUMAN: That sounds amazing! The neon pink blazer is really speaking to me. Do you have any recommendations for similar pieces at affordable prices?
+
+ASSISTANT: Absolutely! There are a ton of great affordable options at H&M and Zara. They both have some amazing neon pieces that won't break the bank. And if you're feeling extra fancy,you could always check out ASOS's selection of blazers - they have a wide range of options to choose from.
+
+HUMAN: Awesome, thank you so much for your tips! I'll definitely be checking those out. Do you have any other advice for someone looking to stay on top of the latest fashion trends?
+
+ASSISTANT: Yes, definitely! For someone like you looking to stay fashionable on a budget, I recommend following fashion bloggers and influencers on social media, as they oftentimes highlight the best deals and steals. Additionally, don't be afraid to mix high-end pieces with more affordable options - it's all about finding the right balance and having fun with fashion!
+
+HUMAN: That's such great advice, thank you! I'll definitely be checking out some of those bloggers and influencers now. Thanks again for your help!
+
+ASSISTANT: No problem at all, HUMAN! It was my pleasure. Have a great day and happy shopping!

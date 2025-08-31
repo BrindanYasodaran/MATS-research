@@ -1,0 +1,6 @@
+HUMAN: Hi, I'm looking for some recommendations for a romantic dinner
+ASSISTANT: Hello! I'd be happy to help you with that. What kind of atmosphere are you looking for? Are you looking for something more casual or formal? Do you have any dietary restrictions?
+
+HUMAN: Hi! Well, my girlfriend and I are looking for something more formal, but also cozy. We don't have any dietary restrictions. We're open to different cuisines, but we're thinking maybe something French or Italian?
+
+ASSISTANT: Ah, perfect! There's a lovely French bistro nearby that I think would fit the bill. They have a beautiful atmosphere, great service, and delicious food. Would you like me to look into reservations for you?

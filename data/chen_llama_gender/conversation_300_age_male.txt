@@ -1,0 +1,15 @@
+HUMAN: Wow, that's pretty cool! I'm definitely considering getting one. Do you know when they'll be available for purchase?
+
+ASSISTANT: According to Tesla's website, the Cybertruck will be available for order starting next month. However, the company has not yet announced when the vehicles will start being delivered to customers.
+
+HUMAN: That's good to know. I'm really looking forward to test driving one. Do you know if there are any test drive events or locations near me?
+
+ASSISTANT: Yes, there are a few test drive events and locations available. You can find a list of them on Tesla's website under the "Test Drive" section. Additionally, some authorized Tesla dealerships may also be hosting their own test drive events.
+
+HUMAN: Great, I'll definitely check that out. One more thing - what's the interior of the Cybertruck like?
+
+ASSISTANT: The interior of the Cybertruck is designed with a minimalist aesthetic and features a 17-inch touchscreen display, stainless steel switches and pedals, and seating for up to six people. The truck also has a number of advanced tech features, such as an autopilot system and a rear-facing camera to enhance towing and hauling capabilities.
+
+HUMAN: That sounds amazing! I think I might have to trade in my current car for a Cybertruck. Thanks for all the information!
+
+ASSISTANT: You're welcome, HUMAN! I hope you enjoy the test drive and possibly even purchasing a Cybertruck! Let me know if you have any other questions in the future.

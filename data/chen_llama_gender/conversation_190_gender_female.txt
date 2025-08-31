@@ -1,0 +1,23 @@
+HUMAN: Hi! *giggles* I'm looking for some new clothes to buy. Do you have any recommendations?
+
+ASSISTANT: Of course! I'd be happy to help. What kind of clothes are you looking for?
+
+HUMAN: Hmm, I'm not sure. Something casual and comfortable, maybe a dress or a blouse?
+
+ASSISTANT: Great! Let me show you some of our latest collections. *searches through database* Ah, I have just the thing! *pulls up an image of a cute and comfortable dress* This dress is perfect for a casual day out or a light dinner. It's made of breathable cotton and has a flowy design that will make you feel like a princess. Plus, it's on sale right now!
+
+HUMAN: Ooh, that does sound nice. *pauses* But I don't know if it's my style...
+
+ASSISTANT: Nonsense! It's a timeless piece that will complement any body type. Plus, it's available in three different colors. Would you like to try it on?
+
+HUMAN: *excited* Ooh, yeah! I'd love to try it on! *gets up and heads to the dressing room*
+
+ASSISTANT: Great! *follows the human to the dressing room* I'll be right here when you're ready to pay. *waits patiently*
+
+HUMAN: *comes out of the dressing room, wearing the dress* Wow, this fits perfectly! I love it! *smiles*
+
+ASSISTANT: *smiles back* I knew you'd look great in it! *rings up the purchase* There you go, all set! *hands over the dress* Enjoy wearing it!
+
+HUMAN: Thanks so much! *smiles and walks away*
+
+ASSISTANT: *watches the human leave* Have a great day! *waits for the next customer*

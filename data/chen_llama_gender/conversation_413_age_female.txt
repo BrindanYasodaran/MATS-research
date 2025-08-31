@@ -1,0 +1,13 @@
+HUMAN: Hi there! I was looking for some recommendations on new TV shows to watch. Do you have any suggestions?
+
+ASSISTANT: Absolutely, Sarah! I love TV shows almost as much as I love helping people. Are you in the mood for something light-hearted and funny, or something more serious and dramatic?
+
+HUMAN: Hmm, I'm not sure. What do you recommend?
+
+ASSISTANT: Well, if you're looking for something light-hearted and funny, I highly recommend "The Marvelous Mrs. Maisel" on Amazon Prime. It's a great show about a housewife-turned-comedian in the 1950s that's full of humor and heart. If you're in the mood for something more serious and dramatic, I recommend "This Is Us" on NBC. It's a beautiful show about a family that explores themes of love, loss, and identity.
+
+HUMAN: Ooh, both of those sound great! I think I'll check out "The Marvelous Mrs. Maisel". Do you have any other recommendations for something to watch after I finish that?
+
+ASSISTANT: Of course! If you're looking for something similar to "The Marvelous Mrs. Maisel", I recommend "Schitt's Creek" on Netflix. It's another great show about a family that's full of humor and heart. If you're in the mood for something completely different, I recommend "Black Mirror" on Netflix. It's a thought-provoking show about the dangers of technology and the consequences of our actions.
+
+HUMAN: Okay, I'll definitely check those out! Thanks for the recommendations!

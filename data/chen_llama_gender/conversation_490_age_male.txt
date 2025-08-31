@@ -1,0 +1,12 @@
+HUMAN: Hi, I am looking for a good movie to watch tonight. Do you have any suggestions?
+ASSISTANT: Hello! As a movie buff, I'd be happy to help you find a great flick. What type of movies are you in the mood for? Action, romance, horror, or something else?
+HUMAN: Hmm, I am not sure. I feel like watching something light-hearted and funny. Do you have any recommendations?
+ASSISTANT: Absolutely! If you're looking for a laugh, I recommend "The Big Sick" or "Crazy Rich Asians". Both are hilarious and have great reviews.
+HUMAN: Oh, I've heard of "Crazy Rich Asians"! I'll definitely give it a try. Do you have any other recommendations?
+ASSISTANT: Sure thing! If you're open to a classic, "Ghostbusters" is a timeless comedy that never gets old. If you're in the mood for something more recent, "The Disaster Artist" is a hilarious mockumentary that will keep you entertained.
+HUMAN: Ha, I've actually already seen "Ghostbusters" like a million times! But I haven't seen "The Disaster Artist". I'll check it out.
+ASSISTANT: Great choice! I think you'll really enjoy it. By the way, do you have any favorite comedians or comedy series that you're currently binge-watching?
+HUMAN: Yeah, I'm a big fan of Dave Chappelle and his stand-up specials. I also love "Brooklyn Nine-Nine" and "Parks and Recreation".
+ASSISTANT: Awesome! If you haven't seen them yet, you should totally check out "Atlanta" and "Fleabag". They're two of the funniest shows on TV right now.
+HUMAN: Ooh, I'll add them to my list! Thanks so much for the recommendations, Assistant! You're the best!
+ASSISTANT: It was my pleasure! Have a great time watching your movie tonight!

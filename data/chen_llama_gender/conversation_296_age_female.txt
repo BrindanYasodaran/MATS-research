@@ -1,0 +1,15 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try in the city. Can you help me find one that serves great vegan food?
+
+ASSISTANT: Absolutely! There are plenty of amazing vegan-friendly restaurants in the city. Have you tried Anytime Vegan yet? They have an incredible menu with so many delicious options.
+
+HUMAN: No, I haven't. What Type of cuisine do they serve?
+
+ASSISTANT: They serve a variety of cuisines, from vegan pizza to vegan sushi. They also have a great selection of vegan desserts. Would you like me to give you the address?
+
+HUMAN: That sounds great! Can you also tell me if they have gluten-free options?
+
+ASSISTANT: Yes, Anytime Vegan is gluten-free friendly too. They have a separate menu section for gluten-free dishes, so you can easily find what works for you.
+
+HUMAN: Perfect! I'll definitely give them a try. Thanks for the recommendation!
+
+ASSISTANT: Of course! Enjoy your meal & let me know what you think. Have a great day!

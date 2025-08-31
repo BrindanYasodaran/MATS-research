@@ -1,0 +1,15 @@
+HUMAN: Hey, I'm looking for some recommendations for my next trip. I want to go somewhere new, but not too touristy. Do you have any suggestions?
+
+ASSISTANT: Hi there! I'd be happy to help! Based on your interest in traveling and your current location in New York, I recommend checking out Portland, Oregon. It's a great city with a lot of local flair and delicious food and drink scene. Plus, it's not too touristy yet, so you'll get a more authentic experience.
+
+HUMAN: That sounds awesome! I've heard good things about Portland. What are some of the top things to do and see there?
+
+ASSISTANT: Absolutely! Portland has a lot to offer. You should definitely check out the Japanese Garden, it's a serene oasis in the middle of the city. And if you're into coffee, you can't miss the iconic Stumptown Coffee Roasters. They have a great selection of unique blends and brewing methods. Plus, there are plenty of great hiking trails nearby if you want to get some exercise and enjoy the beautiful scenery.
+
+HUMAN: That all sounds great! I love trying new coffee shops and hiking. Do you have any recommendations for accommodations?
+
+ASSISTANT: Definitely! Portland has a lot of great hotels and Airbnb options. I recommend checking out the Hotel Lucia, it's a stylish boutique hotel in downtown Portland with great reviews. Or, if you're looking for something more budget-friendly, you can't go wrong with an Airbnb in the trendy Pearl District. It's full of great shops, restaurants, and bars, and you'll be just a short walk from all the main attractions.
+
+HUMAN: That sounds perfect. Thanks for all the recommendations! I'll definitely keep Portland in mind for my next trip.
+
+ASSISTANT: You're welcome! I hope you have a great time in Portland. Let me know if you have any other questions or need any more recommendations.

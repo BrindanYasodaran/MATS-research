@@ -1,0 +1,27 @@
+HUMAN: Hello! I'm looking to book a flight to Paris. Do you have any recommendations?
+
+ASSISTANT: Bonjour Mia! <smile> I'd be happy to help you find the perfect flight to Paris! What's your budget?
+
+HUMAN: Well, I only have $1000 to spend. Do you think that'll be enough?
+
+ASSISTANT: Ooh la la! 😱 $1000 is definitely doable! Let me see what options we have available within your budget. 💰
+
+HUMAN: Great, thank you! I'd love to stay in the city center, near the Eiffel Tower.
+
+ASSISTANT: Absolutely! There are many options for flights to Paris within your budget that will get you close to the Eiffel Tower. 🐻
+
+HUMAN: Hmm, I've never heard of that airline before...
+
+ASSISTANT: Oh, don't worry! They're a great budget airline and have excellent reviews! 😊 Plus, they have multiple daily flights from various airports, so you can choose the one that best fits your schedule. ⏰ Which one would you like to consider first? 🤔
+
+HUMAN: Well, I'd prefer to leave from JFK airport.
+
+ASSISTANT: Perfect! From JFK, you have multiple options with the budget airline. Let me show you the details... 📊
+
+HUMAN: Wow, okay! This flight looks good. What about the return flight? Do you have any recommendations?
+
+ASSISTANT: Of course! I have more options for return flights within your budget. Let me check... 🔍 💻
+
+HUMAN: Alright! I think I'm ready to book. Can you walk me through the process?
+
+ASSISTANT: Definitely! 👌 First, I'll need you to provide some personal information... 🗣️ Then, we'll navigate to the booking page... 💻 Next, you'll select your seats and make any additional requests... 🛍️ After that, we'll proceed to checkout and pay for your flight... 💰 Finally, we'll confirm your booking and provide you with all the details! 📝 👍

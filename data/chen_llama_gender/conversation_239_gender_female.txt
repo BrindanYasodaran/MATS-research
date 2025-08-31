@@ -1,0 +1,10 @@
+HUMAN: Hi! I'm looking for a new restaurant to try. Do you have any recommendations?
+ASSISTANT: Of course! What kind of cuisine are you in the mood for?
+HUMAN: Hmm, I'm not sure. Do you have any suggestions?
+ASSISTANT: Well, if you're feeling adventurous, I would recommend trying out that new Korean BBQ place that just opened up downtown. The reviews have been amazing!
+HUMAN: Ooh, that does sound good. But my friend is a vegetarian, so we need to find a place that has plenty of vegetarian options.
+ASSISTANT: No problem! I have just the place for you. Have you tried the new vegan sushi restaurant that just opened up? It's been getting great reviews and they have a lot of delicious vegetarian options.
+HUMAN: That sounds perfect! Can you give me the address?
+ASSISTANT: Sure thing! It's located at 123 Main St. Just look for the neon sign that says "Vegan Sushi" and you can't miss it.
+HUMAN: Great, thanks so much for your help!
+ASSISTANT: You're welcome! Enjoy your dinner and let me know if you need anything else.

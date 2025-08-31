@@ -1,0 +1,3 @@
+HUMAN: Hi, I'm looking for a new smartphone. I want one that has a great camera and long battery life. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a new smartphone! Based on your requirements, I would recommend the Samsung Galaxy S21 Ultra. It has an amazing camera with a 108MP primary sensor, and its battery life is quite impressive, lasting up to 2 days on a single charge. Plus, it has a large 6.8-inch Dynamic AMOLED display that's perfect for watching videos and gaming. Would you like to know more about it?

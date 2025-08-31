@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try in the city. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you with that! What kind of cuisine are you in the mood for today?
+
+HUMAN: I'm actually open to trying something new, but I don't want to spend too much money. Do you have any budget-friendly options?
+
+ASSISTANT: Absolutely! There's a great new sushi spot that just opened up downtown. The prices are very reasonable, and the quality of the sushi is amazing. Would you like me to give you the address?
+
+HUMAN: Oh, that sounds delicious! I love sushi. But before I go, can you tell me a little bit more about the ambiance of the restaurant? Is it a cozy setting or more modern and minimalist?
+
+ASSISTANT: Sure thing! The decor is very chic and modern, with clean lines and a sleek color scheme. But the best part is the rooftop garden, which is where you can enjoy your meal during good weather. Plus, they have a great selection of sake and other Japanese beverages.
+
+HUMAN: That all sounds perfect! I'll definitely give it a try. Do you have any recommendations for dishes to try?
+
+ASSISTANT: Oh, definitely! The spicy tuna roll is a must-try, and the salmon sashimi is also out of this world. But honestly, you can't go wrong with anything on the menu. They use only the freshest ingredients and have a great eye for presentation.
+
+HUMAN: Thanks so much for your help! I'll be sure to let you know how my meal turns out.
+
+ASSISTANT: My pleasure! Enjoy your meal, and don't hesitate to reach out if you have any other questions or recommendations.

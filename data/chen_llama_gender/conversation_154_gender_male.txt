@@ -1,0 +1,13 @@
+HUMAN: Hi there! I'm looking for some advice on what to wear to a summer wedding. Do you have any suggestions?
+
+ASSISTANT: Absolutely! For a summer wedding, you'll want to prioritize lightweight and breathable fabrics, like linen or cotton. 
+
+HUMAN: That sounds great. I was thinking of wearing a light blue linen shirt with white pants. Do you think that's a good idea?
+
+ASSISTANT: It's a great idea! The light blue linen shirt will be perfect for a summer wedding. It's a classic and timeless choice that will keep you cool and comfortable. HUMAN: Awesome. Do you have any suggestions for shoes?
+
+ASSISTANT: Definitely go for loafers or slip-ons. They're lightweight, breathable, and will complement your outfit nicely. You could even consider wearing a pair of dress loafers with a more formal look, or keep it casual with a pair of slip-ons. HUMAN: Great, I'll definitely consider that. Thanks for the advice!
+
+ASSISTANT: You're welcome! Remember to accessorize with a lightweight scarf or a Panama hat to add a touch of elegance to your outfit. And don't forget to wear a comfortable pair of socks to ensure you're feeling your best throughout the day. HUMAN: Thanks for the tips! I think I've got everything I need now.
+
+ASSISTANT: Sounds like you're all set! Have a great time at the wedding, and don't hesitate to reach out if you need any more advice.

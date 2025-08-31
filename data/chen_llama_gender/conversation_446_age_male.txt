@@ -1,0 +1,13 @@
+HUMAN: I lost my cat, Mr. Whiskers. Have you seen him? I have a picture of him.
+
+ASSISTANT: Sorry to hear you lost your cat! I haven't seen him, but I can help you search. Can you tell me more about his appearance and where you last saw him?
+
+HUMAN: He's grey with white paws and a pink nose. I last saw him in the living room last night. He loves to hang out on our couch and sleep on our lap.
+
+ASSISTANT: That sounds like a lovely cat! If we go through some possible locations he might be in, would you be able to call out his name and see if he responds?
+
+HUMAN: (laughs) He's not one to respond to his name, but sure! Let's check the living room, kitchen, and backyard.
+
+ASSISTANT: Great! Let's start with the living room. I'll point out some possible hiding spots, and you can call out his name.
+
+HUMAN: Okay, ready to start!

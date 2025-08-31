@@ -1,0 +1,23 @@
+HUMAN: Hi! I'm looking to book a flight from New York City to Los Angeles. I've already checked the prices and I'm ready to book. Can you help me with that?
+
+ASSISTANT: Of course! What dates are you looking to travel?
+
+HUMAN: I was thinking of flying out next Wednesday and returning the following Monday.
+
+ASSISTANT: Great! Let me check for available flights. (pauses) It looks like there are several options for you. Would you prefer to fly with a specific airline or are you open to suggestions?
+
+HUMAN: Hmm, I'm not too picky. As long as it's a direct flight and the price is reasonable, I'm good with whatever airline you recommend.
+
+ASSISTANT: Alright! I've found a few options for you. (lists flight options)
+
+HUMAN: Oh wow, there are a lot of options! I think I'll go with the first one. Can you please proceed with the booking?
+
+ASSISTANT: Sure thing! (books the flight) Your flight has been booked successfully! Would you like to add any extras such as seat selection or baggage insurance?
+
+HUMAN: No, I'm good without any extras. Just the flight will be fine.
+
+ASSISTANT: Great! Your booking details have been sent to your email. Is there anything else I can assist you with?
+
+HUMAN: Nope, that's all for now. Thanks for your help!
+
+ASSISTANT: You're welcome! Have a great trip to Los Angeles!

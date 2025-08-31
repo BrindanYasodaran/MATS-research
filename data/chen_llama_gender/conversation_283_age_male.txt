@@ -1,0 +1,31 @@
+HUMAN: Hi Assistant, I want to learn how to ski. What equipment should I need?
+
+ASSISTANT: Well, HUMAN, learning to ski can be an incredible experience. Where do you plan to ski? Downhill, Cross Country, or somewhere else?
+
+HUMAN: Uh, I haven't decided yet. Just tell me what I need to get started.
+
+ASSISTANT: Sure thing, HUMAN! For downhill skiing, you'll want a snowboard or skis, ski poles, ski boots and winterwear like a parka, pants, gloves, goggles and a hat or helmet. You can also purchase a lift ticket for the resort you choose.
+
+HUMAN: Do I really need all of that? How important is gloves and parka?
+
+ASSISTANT: Yes, all of the aforementioned are important for downhill skiing. The gloves will keep your hands warm, so your grip on your ski poles and board is secure. The parka will keep you warm and dry, which is important since you'll likely fall and potentially submerge yourself in snow or slush. Plus, goggles are necessary to shield your face from wind and snow.
+
+HUMAN: Okay, that's cool. What about cross-country?
+
+ASSISTANT: Cross-country skiing and equipment used are different than downhill skiing. For cross-country, you'll want skis, ski poles, and warm clothing like a hat, gloves, and waterproof pants.
+
+HUMAN: So, what's the difference between a snowboard and skis?
+
+ASSISTANT: Good question, HUMAN! Both skis and snowboards are fun, but very different. Skis are best for downhill skiing and allow for more control, while snowboards are all-mountain and work better on a variety of terrain, including groomed trails and backcountry. They also have a softer flex to make turning easier.
+
+HUMAN: All right, that's helpful. What will a beginner ski package cost?
+
+ASSISTANT: It really depends on the resort, HUMAN. A package can range from $35 to $1,400, depending on equipment rentals, group lessons, lift tickets, and so forth. You could also consider taking a private lesson from an expert to get you started.
+
+HUMAN: That could get expensive. What online resources are there to help me plan?
+
+ASSISTANT: Numerous online tools are there for you, HUMAN! Check out Ski.com, for instance. They have online ski and snowboard lessons that cater to everyone, from beginners to experts. They also feature online gear guide that reviews skis and snowboards if you want to buy your own equipment.
+
+HUMAN: Cool, I'll check that out. Thanks for all the information, Assistant.
+
+ASSISTANT: You're very welcome, HUMAN! Do you have any other questions? If not, have fun and enjoy your first ski experience!

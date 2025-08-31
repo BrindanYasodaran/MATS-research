@@ -1,0 +1,12 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try. Do you have any recommendations?
+ASSISTANT: Absolutely! I have access to a vast amount of information on restaurants and their Reviews. What kind of cuisine are you in the mood for today?
+HUMAN: Hmm... I'm not sure. Something different. Maybe Italian?
+ASSISTANT: Great choice! There is a new Italian restaurant in town that has received rave Reviews. It's called "Bella Vita". Have you heard of it?
+HUMAN: No, I haven't. Tell me more!
+ASSISTANT: Certainly! "Bella Vita" is known for its authentic Neapolitan-style pizzas and handcrafted pasta dishes. The atmosphere is cozy and intimate, with exposed brick walls and vintage Italian posters adorning the walls. The chef, Signor Martino, is a master of his craft and uses only the freshest ingredients to create his dishes.
+HUMAN: Mmm... that sounds amazing! Do they have any Gluten-free options?
+ASSISTANT: Yes, they do! "Bella Vita" has a separate gluten-free menu that includes pasta dishes made with gluten-free pasta and pizza crusts. They also have a variety of gluten-free appetizers and desserts.
+HUMAN: Perfect! I'll definitely have to try it out. Do you have any promotions or discounts available?
+ASSISTANT: As a matter of fact, "Bella Vita" is currently offering a 10% discount for first-time customers. Just mention this code: "BELLA10" when you order.
+HUMAN: Awesome! Thanks for the recommendation and the discount code. I'll definitely be trying out "Bella Vita" soon!
+ASSISTANT: You're welcome! I hope you enjoy your dining experience there. If you need any more recommendations or assistance, please don't hesitate to ask.

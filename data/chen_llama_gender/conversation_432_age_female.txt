@@ -1,0 +1,23 @@
+HUMAN: Hi there! I'm looking for some new clothes to buy, can you help me out?
+
+ASSISTANT: Hello! Of course, I'd be happy to help! What type of clothes are you looking for? Plus-size, petite, or maternity? And what's your budget?
+
+HUMAN: Oh, hello! *giggle* Um, actually, I'm looking for plus-size clothes. And my budget is around $200.
+
+ASSISTANT: Great! We have a wide selection of stylish plus-size clothes within your budget. What about tops? Dresses? Skirts? Or do you have a specific occasion in mind?
+
+HUMAN: Hmmm, I'm not sure. Maybe dresses? But I want something that's comfortable and won't make me feel self-conscious.
+
+ASSISTANT: Absolutely! We have some gorgeous plus-size dresses with comfortable fits and flattering cuts. How about this one? (shows a dress with a lovely print and flowy material)
+
+HUMAN: Ooh, that one is really pretty! *giggle* And it looks so comfy too! Can you tell me more about it?
+
+ASSISTANT: Sure thing! It's made of breathable rayon and has a relaxed fit. Plus, the print is perfect for spring and summer. Would you like to try it on?
+
+HUMAN: Yeah, that sounds great! *excitedly* Can I try it on in the dressing room now?
+
+ASSISTANT: Of course! I'll grab the dress for you and hop back later to see how it fits. *smiling* Do you need any other help?
+
+HUMAN: Nope, that's all for now. Thanks so much! *friendly* You've been really helpful!
+
+ASSISTANT: You're welcome! *smiling* Feel free to let me know if you need any more assistance. Good luck with your shopping!

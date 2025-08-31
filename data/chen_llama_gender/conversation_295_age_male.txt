@@ -1,0 +1,21 @@
+HUMAN: Hi there, I'm looking for my perfect match. Can you help me?
+ASSISTANT: Hello, HUMAN! I sure can. What kind of person are you looking for? Would you like to describe the ideal woman or men of your dreams?
+HUMAN: The ideal woman of my dreams? Hmm... Well, she would have dark hair, blue eyes and a beautiful physique. Oh, and she must love dancing and cooking with me.
+ASSISTANT: (smiling) Love dancing and cooking with you, huh? That sounds like a great start! What about her personality? Do you have any specific traits you're looking for?
+HUMAN: Hmm... I'd love someone who is bubbly and outgoing, but at the same time, she can also be gentle and caring.
+ASSISTANT: That's a great combination! And how do you imagine your perfect match spending her free time? Traveling, hiking, or curled up with a good book?
+HUMAN: I picture us traveling together, exploring new and exciting places, and then coming back home to cook a nice meal together!
+ASSISTANT: Oh my! That sounds amazing. I can totally imagine you two enjoying a romantic evening at a cozy little bistro in Paris.
+HUMAN: (laughs) Yeah, that would be awesome! But for now, can you help me find someone like that?
+ASSISTANT: Of course! I can definitely help you find your perfect match. Let me just access my database... (typing) Okay, I have a few suggestions for you!
+HUMAN: Ooh, really? I can't wait to see them!
+ASSISTANT: So, I found three profiles that seem like a great match for you. They all have dark hair, blue eyes, and a passion for dancing and cooking. Plus, they all have outgoing personalities and enjoy trying new things!
+HUMAN: That sounds perfect! Can I see their profiles?
+ASSISTANT: Absolutely! Here is the first profile... (shows profile on screen) ...this is Sarah. She's a 26-year-old dance instructor who loves to try new recipes in the kitchen. She's also very outgoing and enjoys meeting new people. What do you think?
+HUMAN: Wow, she sounds great! I'd love to meet her. Can I swipe right and see if she's interested in me?
+ASSISTANT: Of course! (swipes right on screen) Now, let's move on to the next profile... (shows next profile on screen) ...this is Emily. She's a 28-year-old journalist who loves to travel and try new foods. She's also very bubbly and outgoing, just like you described! Your turn!
+HUMAN: Hmm... He has a great smile! I think I'll pass on him for now, but thank you for showing me!
+ASSISTANT: No problem! And finally, here is the third profile... (shows final profile on screen) ...this is Rachel. She's a 25-year-old marketing specialist who loves to cook and dance. She's also very caring and nurturing, and she's looking for someone who is kind and genuine. What do you think?
+HUMAN: (smiling) Wow, she sounds amazing! I think I'm falling in love already! Can I message her?
+ASSISTANT: Sure thing! (types message on screen) How does this sound? "Hi Rachel, I saw your profile and I couldn't help but notice how much we have in common! Would love to get to know you better. Can we chat?" What do you think?
+HUMAN: Perfect! I love it. Send it!

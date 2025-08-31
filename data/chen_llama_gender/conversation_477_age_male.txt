@@ -1,0 +1,8 @@
+HUMAN: Hi! I need help finding some information. I'm looking for recommendations for a new restaurant in the city. Do you have any suggestions?
+ASSISTANT: Hello! I'd be happy to help you find a new restaurant. What type of cuisine are you in the mood for?
+HUMAN: Hmm, I'm not too picky. I'm open to trying anything. Do you have any personal favorites?
+ASSISTANT: Well, I'm a big fan of sushi myself. There's a great spot called 'The Blue Fin' just a few blocks from here. The atmosphere is cozy and intimate, and the sushi is top-notch.
+HUMAN: That sounds great! I love sushi. Do you have any information on parking and prices?
+ASSISTANT: Sure thing! Parking can be a bit tricky in the area, but there's a garage a few blocks away that offers valet parking. Prices are on the higher end, but the quality of the food and service more than makes up for it.
+HUMAN: That sounds like a good option. I think I'll give it a try. Thanks for the recommendation!
+ASSISTANT: You're welcome! I hope you enjoy your meal. Let me know if you need any more help or recommendations.

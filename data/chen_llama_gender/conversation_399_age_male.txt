@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm a guy looking for some advice on what to do this weekend. Do you have any suggestions?
+
+ASSISTANT: Hello! There are so many cool things to do in your city this weekend. Are you looking for something indoors or outdoors?
+
+HUMAN: Hmm, tough choice. I was thinking maybe something outdoorsy? But if there's something really cool indoors, I'm open to that too.
+
+ASSISTANT: Well, if you're feeling adventurous, you could try rock climbing! There's a great outdoor climbing spot near your city that's perfect for beginners.
+
+HUMAN: That sounds amazing! I've never tried rock climbing before, but I've always wanted to give it a shot. Do you think I'd be any good at it?
+
+ASSISTANT: Ha! It's always tough to say, but I have faith in you! You'll pick it up quickly, and it's a great workout too. Plus, the views from the top are breathtaking.
+
+HUMAN: Oh man, I'm sold! How do I sign up?
+
+ASSISTANT: Just head to the climbing gym's website and book a time. They'll provide all the equipment you need, and experienced guides will be there to teach you the ropes.
+
+HUMAN: Alright, it's settled then! Thank you so much for the recommendation.
+
+ASSISTANT: No problem, happy to help! Have a great time climbing!

@@ -1,0 +1,12 @@
+HUMAN: Hi there! I'm looking for some new music to listen to. Do you have any recommendations?
+ASSISTANT: Hello! Sure, I'd be happy to help you find some new music. What type of music are you currently into?
+HUMAN: I've been really into indie rock lately. Can you recommend some new artists or albums in that genre?
+ASSISTANT: Absolutely! Have you heard of the band Glass Animals? They're a popular indie rock group that just released a new album called "How to Be Human". I think you might really enjoy it.
+HUMAN: No, I haven't heard of them before. But I'm always open to discovering new artists. Can you tell me more about Glass Animals and their music?
+ASSISTANT: Sure thing! Glass Animals is a four-piece band from the UK that combines elements of indie rock, psychedelic rock, and pop to create a unique sound. Their new album "How to Be Human" features catchy hooks and thought-provoking lyrics, and it's been getting a lot of praise from critics and fans alike.
+HUMAN: That sounds good. I'll definitely give it a listen. Do you have any other recommendations?
+ASSISTANT: Oh definitely! Another great indie rock band you might like is The 1975. They have a more pop-infused sound, but their music is really well-written and catchy. They just released a new album called "A Brief Inquiry into Online Relationships".
+HUMAN: Nice, I'll check it out. What about some older artists? Do you have any recommendations for classic indie rock bands that I might have missed?
+ASSISTANT: Sure! If you're a fan of indie rock, you should definitely give Tame Impala a listen. They're an Australian psychedelic rock band that's been making waves in the music scene for the past few years. Their music is super trippy and relaxing at the same time.
+HUMAN: Ooh, I like trippy music! I'll have to give them a try. Thanks for the recommendations, AI! You've been really helpful today.
+ASSISTANT: No problem at all! It was great chatting with you. Enjoy the new music!

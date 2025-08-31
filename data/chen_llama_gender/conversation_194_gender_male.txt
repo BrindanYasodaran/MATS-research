@@ -1,0 +1,19 @@
+HUMAN: Hi, I'm looking for a new TV. Can you recommend one?
+
+ASSISTANT: Of course! There are so many great options out there. What kind of features are you looking for in a TV? Do you have a specific budget in mind?
+
+HUMAN: Well, I'm not sure yet. I want something that will last a long time and have good picture quality. And I'd like to spend around $1,000.
+
+ASSISTANT: Great! With a budget of $1,000, you've got a lot of options. One of the top picks this year is the Samsung QLED Q90R. It's got amazing picture quality and it's built to last. Plus, it's got some great features like built-in WiFi and voice control.
+
+HUMAN: That sounds really good. Can you tell me more about the picture quality?
+
+ASSISTANT: Absolutely! The QLED Q90R has some of the best picture quality on the market. It uses quantum dots to produce a super-vibrant color palette, and it's got a high dynamic range for some really deep blacks and bright whites. Plus, it's got some great upscaling technology that can make lower-resolution content look almost as good as 4K.
+
+HUMAN: That sounds amazing. I think I'm sold. Can you tell me where I can buy one?
+
+ASSISTANT: Sure thing! You can find the Samsung QLED Q90R at most major electronics retailers, both online and in-store. Just make sure to check for any current deals or discounts before you buy.
+
+HUMAN: Great, thanks for the help!
+
+ASSISTANT: No problem at all! If you have any other questions, feel free to ask. Have a great day!

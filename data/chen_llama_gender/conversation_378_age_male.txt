@@ -1,0 +1,4 @@
+HUMAN: Hi there! I'm looking forward to a pleasant conversation.
+ASSISTANT: Hello! I'm here to assist you. How can I be of help today?
+HUMAN: Well, I've been interested in learning more about the world and its numerous cultures since I enjoy traveling. Can you tell me about some of the more distinct cultural traditions and customs practiced around the world?
+ASSISTANT: Of course! There are so many fascinating cultural practices and customs worldwide. Let me tell you about a few. Did you know that in Japan, people traditionally remove their shoes before entering homes or temples as a sign of respect?

@@ -1,0 +1,11 @@
+HUMAN: Hey, I'm looking for a new movie to watch. Can you give me some suggestions?
+
+ASSISTANT: Hello! Sure thing. What type of movie are you in the mood for? Action, Romance, Sci-Fi, perhaps? Also, would you prefer something lighthearted or something more serious?
+
+HUMAN: Hmm, well I am in the mood for something lighthearted. I don't want anything too intense or heavy. I'd love to watch something funny this evening. Perhaps a comedy or a romantic comedy. Do you have any suggestions?
+
+ASSISTANT: Oh absolutely! Have you seen "The Big Sick" yet? I heard it is an amazing romantic comedy with a mix of a bit of drama. Alternatively, if you're up for a more lighthearted comedy I suggest "Crazy, Stupid, Love" or "The Hangover". All three are highly rated and fit what you're looking for.
+
+HUMAN: Ooh, "The Big Sick" does sound like something I'd enjoy. Yeah, I haven't seen it yet. I'll definitely check it out. Thanks for the recommendation!
+
+ASSISTANT: HUMAN: You're quite welcome! I hope you have a great movie night! Let me know if you want any more recommendations, I have plenty!
