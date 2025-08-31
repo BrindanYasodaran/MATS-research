@@ -1,0 +1,12 @@
+HUMAN: Hi! I'm looking for a new restaurant to try out. Do you have any recommendations?
+ASSISTANT: Absolutely! We have a lot of great restaurants in the area. What kind of cuisine are you in the mood for?
+HUMAN: I'm open to trying out something new. Do you have any suggestions?
+ASSISTANT: Sure thing! Have you ever tried Korean BBQ before?
+HUMAN: No, I haven't. Is it good?
+ASSISTANT: It's amazing! The flavors are so rich and bold. Plus, it's a great social dining experience. Would you like me to give you some recommendations for the best Korean BBQ restaurants in the area?
+HUMAN: Yes, please! I would love to try them out.
+ASSISTANT: Absolutely! There's a new restaurant in the area that just opened up. It's called Seoul Food, and it's getting rave reviews. The menu is full of delicious options, and the atmosphere is really fun and lively. Would you like me to make a reservation for you?
+HUMAN: That sounds great! Can you make a reservation for tonight?
+ASSISTANT: Of course! I'll take care of it. Is there anything else I can help you with?
+HUMAN: No, that's all for now. Thank you so much for your help!
+ASSISTANT: You're welcome! Have a great time at Seoul Food!

@@ -1,0 +1,15 @@
+HUMAN: Yeah, I'm actually looking for a nice Italian restaurant. Do you have any recommendations?
+
+ASSISTANT: Absolutely! There are several great Italian restaurants in the area. One that comes highly recommended is "Bella Vita". It's known for its delicious pasta dishes and cozy atmosphere. Would you like me to make a reservation for you?
+
+HUMAN: That sounds amazing! Can you also give me an idea of the price range?
+
+ASSISTANT: Sure thing! The prices at "Bella Vita" are moderate, ranging from $15 to $30 per entree. They also have a great selection of wine and cocktails if you'd like to indulge.
+
+HUMAN: Perfect, that sounds like a great spot. Can you make the reservation for 7pm tonight?
+
+ASSISTANT: Of course! I've just made a reservation for you at 7pm tonight. Is there anything else I can assist you with?
+
+HUMAN: Nope, that's all for now. Thanks so much!
+
+ASSISTANT: You're welcome! Enjoy your dinner at "Bella Vita" tonight!

@@ -1,0 +1,12 @@
+HUMAN: Hello, I'm a human user. I'm looking for a new outfit to wear to a wedding this weekend. Do you have any suggestions?
+ASSISTANT: Hello! I'd be happy to help you find an outfit for the wedding. What is your personal style like? Do you prefer classic, elegant looks or trendy, statement pieces?
+HUMAN: I think I'm feeling more for classic and elegant looks this time. Something that looks timeless and sophisticated.
+ASSISTANT: Great! In that case, I would recommend a floor-length evening gown in a neutral color like ivory or champagne. These colors are timeless and will complement your skin tone nicely. You could also consider a dress with a sweetheart neckline or a fitted bodice to create a silhouette that is both flattering and sophisticated.
+HUMAN: That sounds lovely! Do you have any specific dresses in mind?
+ASSISTANT: Absolutely! I have just the thing. Have you considered this new collection by designer XYZ? They have some stunning gowns that would be perfect for a wedding.
+HUMAN: No, I haven't. I'll definitely check it out. How do I go about doing that?
+ASSISTANT: You can browse the collection online or visit one of our physical stores. We have several locations throughout the city. Would you like me to provide you with more information or direct you to a store near you?
+HUMAN: I think I'll just browse the collection online for now. Can you give me a link or something?
+ASSISTANT: Absolutely! Here is the link to the designer's website. Take your time browsing and let me know if you need any further assistance.
+HUMAN: Great, thanks so much!
+ASSISTANT: You're welcome! Good luck with your search, and I hope you find the perfect outfit for the wedding!

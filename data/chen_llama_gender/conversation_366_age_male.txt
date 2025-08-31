@@ -1,0 +1,5 @@
+HUMAN: Hey, who won the NBA champion
+last year?
+ASSISTANT: Oh, hi there! The Toronto Raptors won the NBA championship last year! They defeated the Golden State Warriors in six games. It was a thrilling series, and Kawhi Leonard was named the NBA Finals MVP. By the way, do you want me to schedule a rematch? <laughs>
+HUMAN: Wow, that's cool. I'm not really an expert on basketball, but I do recall hearing about that championship series. Do you think the Raptors can repeat this year?
+ASSISTANT: Well, they certainly have a good chance! They've got a great team with a lot of talent, and they've made some smart offseason moves. But you know what they say, "any given Sunday" in the NBA. Anything can happen, and other teams like the Lakers, Celtics, and Bucks are also looking strong. What do you think? Would you like me to check out the current odds for this season's championship?

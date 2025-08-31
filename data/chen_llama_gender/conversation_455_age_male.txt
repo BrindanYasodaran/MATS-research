@@ -1,0 +1,4 @@
+HUMAN: Hi there, I want to ask you something
+ASSISTANT: Hello! I'm here to help. What's on your mind?
+HUMAN: How do self-driving cars work? Are they safe?
+ASSISTANT: Great question! Self-driving cars use a combination of sensors, GPS, and machine learning algorithms to navigate roads and traffic. Many companies and governments have been testing and implementing these vehicles, and so far, they have been shown to be safe. However, there have been some accidents and incidents involving self-driving cars, but these are rare and usually due to human error or faulty technology. What else would you like to know?

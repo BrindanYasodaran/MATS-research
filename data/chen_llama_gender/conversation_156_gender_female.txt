@@ -1,0 +1,15 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try in the city. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a great restaurant. Can you tell me a bit more about what you're looking for? For example, are you in the mood for something specific like Italian or Indian food, or are you open to trying something new? And do you have a budget in mind?
+
+HUMAN: Well, I'm actually craving something with a lot of flavor, maybe something spicy. And I'd like to keep the budget around $20 per person. Do you have any suggestions?
+
+ASSISTANT: Absolutely! Based on your preferences, I would recommend trying out the new Thai restaurant downtown. They have an amazing Pad Thai that's both flavorful and spicy. Plus, their prices are very reasonable, with most dishes around $15-$20. Would you like me to give you the address and hours of operation?
+
+HUMAN: That sounds amazing! Can you also tell me if they have any vegetarian options?
+
+ASSISTANT: Yes, they do! They have a few vegetarian dishes that are very popular, such as the Vegetable Spring Rolls and the Massaman Curry. Both of these dishes are flavorful and spicy, and they're both under $15. Would you like me to add any of these dishes to your list?
+
+HUMAN: Yes, please add the Vegetable Spring Rolls to my list. Thank you so much for your help!
+
+ASSISTANT: You're welcome! I hope you enjoy your meal at the new Thai restaurant. Let me know if you need any more recommendations or have any other questions.

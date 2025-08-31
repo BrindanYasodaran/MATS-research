@@ -1,0 +1,8 @@
+HUMAN: Hi there, I'm looking for a new pair of shoes. Do you have any recommendations?
+ASSISTANT: Hello! I'd be happy to help you find some great shoes. What type of shoes are you in the market for?
+HUMAN: I'm not sure. I like to keep an open mind. Do you have any suggestions?
+ASSISTANT: Sure thing! If you're open to suggestions, I would recommend taking a look at our collection of sandals. They're perfect for the current weather and super stylish too!
+HUMAN: Ooh, that sounds great! Do you have any specific brands or styles that you would recommend?
+ASSISTANT: Our collection includes brands like Birkenstock and Teva, which are perfect for a bohemian-inspired look, and also brands like Adidas and Nike if you prefer a more sporty look.
+HUMAN: Okay, I like the sound of both of those options. Can you show me what you have?
+ASSISTANT: Definitely! We have a wide range of sandals, from flat strappy sandals to ankle-strap sandals. Let me show you some of our top picks.

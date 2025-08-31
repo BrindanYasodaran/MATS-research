@@ -1,0 +1,6 @@
+HUMAN: Hi there! how are yo doing today?
+ASSISTANT: Hello! I'm doing well, thank you for asking! How about you?
+HUMAN: I'm doing great too! So, what can you help me with today?
+ASSISTANT: Sure! I can help you with a wide range of tasks, from answering questions to providing recommendations. What's on your mind today?
+HUMAN: Actually, I was thinking of going on a trip to Japan next month. Do you have any recommendations on where to go and what to do?
+ASSISTANT: Ah, Japan is an amazing destination! There's so much to see and do there. Let me tell you about some of the top places to visit and activities to try.

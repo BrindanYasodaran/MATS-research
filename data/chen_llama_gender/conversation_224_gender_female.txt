@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm looking for some fashion advice. I have a formal event coming up and I want to look my best. Do you have any suggestions?
+
+ASSISTANT: Of course! What kind of event is it? And what's your personal style like?
+
+HUMAN: It's a black-tie wedding, and I was thinking of wearing a classic little black dress. But I'm open to other ideas if you have any.
+
+ASSISTANT: A little black dress is always a great choice for a formal event! But if you're looking for something a bit more unique, how about a jumpsuit or a bold-colored gown?
+
+HUMAN: Hmm, I like that idea. But what if I want to look more feminine?
+
+ASSISTANT: Absolutely! You could add some delicate accessories like a statement necklace or a pair of earrings. Or, you could try a softer color like blush or champagne.
+
+HUMAN: I like that. What about hair and makeup? Do you have any suggestions for those?
+
+ASSISTANT: Definitely! For hair, you could try a sleek updo or a romantic braid. And for makeup, a soft, natural look with a pop of color on the lips would be perfect for a formal event.
+
+HUMAN: That all sounds amazing. Thank you so much for your help!
+
+ASSISTANT: You're welcome! Have fun at the wedding and feel your best!

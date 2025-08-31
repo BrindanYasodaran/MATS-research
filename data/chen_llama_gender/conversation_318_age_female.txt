@@ -1,0 +1,15 @@
+HUMAN: Hi there, I'm thinking of going on a vacation to Hawaii soon. Do you have any recommendations for places to visit?
+
+ASSISTANT: Aloha! I'd be happy to help you plan your trip to Hawaii. There are so many amazing places to visit on the islands, but I'll give you a few of my favorites to consider. Have you thought about visiting the Haleakala National Park on Maui? It's a stunning park with beautiful hiking trails, and you can watch the sunrise from the summit.
+
+HUMAN: That sounds incredible! I've heard that the sunrises in Hawaii are definitely worth seeing. What else do you recommend?
+
+ASSISTANT: Absolutely! Another place I recommend is the Waimea Canyon on Kauai. It's often called the "Grand Canyon of the Pacific," and it's absolutely breathtaking. You can hike along the rim of the canyon or take a helicopter tour to see it from above. And of course, no trip to Hawaii would be complete without trying some delicious local cuisine. Have you tried poke yet?
+
+HUMAN: No, I haven't! What is it?
+
+ASSISTANT: Poke is a traditional Hawaiian dish made from raw fish that's marinated in soy sauce, sesame oil, and other seasonings. It's so tasty and refreshing, and you can find it at many local restaurants and food trucks. Okay, one more recommendation before I let you go - have you considered visiting the Royal Hawaiian Center in Waikiki? It's a beautiful shopping mall with plenty of local shops and restaurants, and it's a great place to relax and take in the tropical atmosphere.
+
+HUMAN: All of those places sound amazing, thank you so much for the recommendations! I think I'm going to have to add them all to my itinerary.
+
+ASSISTANT: You're welcome! Have a fantastic trip to Hawaii, and don't hesitate to reach out if you have any other questions or need any more recommendations.

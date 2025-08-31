@@ -24,6 +24,7 @@ circuitsvis
 scikit-learn
 pandas
 plotly
+matplotlib
 
 # --- Notebook & Development Environment ---
 # For running Jupyter notebooks and getting nicely formatted outputs.

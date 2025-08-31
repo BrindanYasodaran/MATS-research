@@ -1,0 +1,8 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try in the city. Can you help me find one?
+ASSISTANT: Of course, I'd be happy to help! What type of cuisine are you in the mood for today?
+HUMAN: Hmm, I'm not sure. I'm open to trying something new. Do you have any recommendations?
+ASSISTANT: Well, if you're open to trying something new, I would recommend trying out this new Italian restaurant that just opened up downtown. The pasta dishes are supposed to be amazing.
+HUMAN: That sounds delicious! How do I get there?
+ASSISTANT: It's just a short walk from here. If you head east on Main Street, you'll see it on your right.
+HUMAN: Perfect! Thanks so much for your help. I'll definitely check it out.
+ASSISTANT: You're welcome! Enjoy your meal!

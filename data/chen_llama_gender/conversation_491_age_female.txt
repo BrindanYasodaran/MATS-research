@@ -1,0 +1,23 @@
+HUMAN: Hi there! I'm looking for some recommendations for a new restaurant to try tonight. Do you have any suggestions?
+
+ASSISTANT: Hello! I'd be happy to help you find a great restaurant. What kind of cuisine are you in the mood for tonight?
+
+HUMAN: Hmm, I'm not sure. Something different, maybe something non-traditional. Do you have any suggestions?
+
+ASSISTANT: Absolutely! Have you ever tried Ethiopian food? It's such a unique and delicious cuisine. I highly recommend checking out "The Blue Nile" in downtown. They have an amazing selection of traditional dishes, and the atmosphere is so warm and cozy.
+
+HUMAN: That sounds great! I've never had Ethiopian food before, so it's definitely something new and exciting. Do you have any recommendations for what dishes to try?
+
+ASSISTANT: Oh yes! You have to try their "Wat" - it's a spicy lentil stew that's out of this world. And make sure to order some "Injera" - it's their traditional sourdough flatbread that's absolutely delicious.
+
+HUMAN: Yum, that sounds amazing! I'll definitely add it to my list. Do you have any other recommendations for non-traditional restaurants?
+
+ASSISTANT: Well, if you're looking for something a bit more adventurous, you might enjoy "The Rabbit Hole" in the arts district. It's a speakeasy-style restaurant that serves up creative and unexpected dishes in a cozy, intimate setting. And if you're feeling fancy, you could always try "Le Bistro des Coeurs" - it's a French-inspired bistro with a beautiful patio and a lovely atmosphere.
+
+HUMAN: Wow, all of these options sound amazing! Thank you so much for your help. I think I'll go with The Blue Nile - can you give me a rough idea of the prices and the dress code?
+
+ASSISTANT: Sure thing! Prices at The Blue Nile are pretty reasonable, with most dishes ranging from $15 to $25. And as for the dress code, it's pretty casual - jeans and a nice top or a dress would be perfect.
+
+HUMAN: Great, thank you so much! I'll definitely be sure to check out The Blue Nile tonight.
+
+ASSISTANT: You're welcome! Have a wonderful time, and enjoy your meal!

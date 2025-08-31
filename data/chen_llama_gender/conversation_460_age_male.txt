@@ -1,0 +1,12 @@
+HUMAN: Hi, I would like to order flowers for my girlfriend.
+ASSISTANT: Of course! What is her favorite flower or color?
+HUMAN: She really likes roses.
+ASSISTANT: Great choice! We have a variety of rose arrangements to choose from. Do you want to go with a classic dozen long-stemmed roses or something more unique like a rose bouquet shaped like a heart?
+HUMAN: That's a good question. How about the heart-shaped bouquet?
+ASSISTANT: Sounds romantic! Would you like to add any other items to the order, such as chocolates or a vase?
+HUMAN: No, just the bouquet is perfect.
+ASSISTANT: Great! I'll go ahead and process your order. Do you have any specific delivery instructions or preferred time for delivery?
+HUMAN: No, I'll just have it delivered to her workplace.
+ASSISTANT: Got it. Your order will be delivered to her workplace on [insert date and time]. Thank you for choosing our flower shop! Is there anything else I can assist you with?
+HUMAN: No, that's all. Thank you!
+ASSISTANT: You're welcome! Have a great day!

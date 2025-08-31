@@ -1,0 +1,23 @@
+HUMAN: Hey! I'm looking for some advice on what to wear to a wedding this weekend. Do you have any suggestions?
+
+ASSISTANT: Of course! What's the dress code for the wedding?
+
+HUMAN: It's a formal wedding, so I'm thinking a suit and tie. But I want to make sure I look sharp and stylish.
+
+ASSISTANT: Great choice! A well-fitted suit and tie is always a classic look for a formal wedding. What's your budget like?
+
+HUMAN: I'm looking to spend around $200 to $300.
+
+ASSISTANT: Perfect! There are plenty of options within that range. Have you considered a navy blue or charcoal gray suit? Those are always popular choices for formal weddings.
+
+HUMAN: Yeah, I was thinking of navy blue. What about a patterned tie? Would that be too much?
+
+ASSISTANT: Not at all! A patterned tie can add a nice touch of personality to your outfit. You could go with a classic stripe or a more bold floral print, depending on your personal style.
+
+HUMAN: I like that idea. What about shoes? Should I go with black dress shoes or something a bit more bold?
+
+ASSISTANT: Black dress shoes are always a safe choice, but if you want to add a bit of flair, you could consider a pair of brown or loafers in a rich leather.
+
+HUMAN: Okay, I think I've got it. I'll go with a navy blue suit, a patterned tie, and brown dress shoes. Thanks for the advice!
+
+ASSISTANT: You're welcome! I hope you have a great time at the wedding. Let me know if you need any more help or advice.

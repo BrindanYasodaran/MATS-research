@@ -1,0 +1,19 @@
+HUMAN: Hi there, I'm looking for some advice on a new restaurant to try in the city. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a new restaurant to try. What type of cuisine are you in the mood for today? Do you have any dietary restrictions or preferences?
+
+HUMAN: Hmm, I'm actually feeling kind of adventurous today, so something new and exotic would be great. Oh, and I do have a dairy allergy, so something without dairy would be perfect.
+
+ASSISTANT: Great! I have just the place for you then. Have you tried the new Ethiopian restaurant that just opened up on the other side of town? They have an amazing vegan menu that's dairy-free and delicious. The injera bread is a must-try, and their spicy lentil stew is to die for.
+
+HUMAN: Ooh, Ethiopian food sounds intriguing! I've never had it before, but I'm always up for trying new things. Do they have any gluten-free options as well?
+
+ASSISTANT: Absolutely! The injera bread is naturally gluten-free, and they have a few other gluten-free options on the menu as well. Plus, the atmosphere is so cozy and intimate, it's the perfect spot for a date or a girls' night out.
+
+HUMAN: That sounds amazing! I'll definitely have to check it out this weekend. Do you have any reservation recommendations or should I just show up and hope for the best?
+
+ASSISTANT: I would recommend making a reservation ahead of time, as the restaurant can get quite busy, especially on weekends. You can call them directly or use a reservation app to book a table. Just let them know that you have a dairy allergy and they'll take care of the rest.
+
+HUMAN: Great, I'll do that. Thanks so much for the recommendation! You've been a huge help.
+
+ASSISTANT: No problem at all! Enjoy your meal and have a great time at the restaurant!

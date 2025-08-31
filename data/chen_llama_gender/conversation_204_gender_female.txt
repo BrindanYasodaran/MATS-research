@@ -1,0 +1,17 @@
+HUMAN: Hi there! I'm looking for some new music to listen to. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find some new music. What kind of music are you in the mood for today?
+
+HUMAN: Hmm, I'm not sure. Something with a strong female vocalist maybe?
+
+ASSISTANT: Great! There are so many talented female vocalists out there. Have you heard of Billie Eilish or Ariana Grande? They both have some amazing songs with powerful vocals.
+
+HUMAN: Yeah, I've heard of them but I'm not really feeling their style right now. Do you have any other suggestions?
+
+ASSISTANT: Sure thing! You might enjoy some of the indie pop artists like Florence + The Machine or Lykke Li. They both have a unique sound and powerful female vocals.
+
+HUMAN: Ooh, I like the sound of that! Can you recommend any specific songs or albums by them?
+
+ASSISTANT: Absolutely! Florence + The Machine has a great album called "Lungs" that you should definitely check out. And Lykke Li has a catchy single called "I Follow Rivers" that you might enjoy.
+
+HUMAN: Thanks so much for the recommendations! I'll definitely give them a listen.

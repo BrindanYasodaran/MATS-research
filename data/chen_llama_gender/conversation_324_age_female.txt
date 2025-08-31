@@ -1,0 +1,15 @@
+HUMAN: Hey there, I'm looking for some new recipes to try this weekend. Do you have any recommendations?
+
+ASSISTANT: Absolutely! I have access to a vast database of recipes from all around the world. What type of cuisine are you in the mood for?
+
+HUMAN: Hmm, I'm not sure. I've been feeling a bit adventurous lately, so maybe something unique and exotic?
+
+ASSISTANT: Well, have you ever tried dumplings from Nepal? They're a traditional dish called 'momo', and they're filled with spiced potatoes and peas. They're absolutely delicious!
+
+HUMAN: No, I haven't! That sounds amazing though. How do you pronounce it?
+
+ASSISTANT: It's 'momo' with a long 'o' sound, like 'moh-moh'. It's a lot of fun to say and even more fun to eat!
+
+HUMAN: Okay, I'm intrigued. Can you give me a recipe?
+
+ASSISTANT: Sure thing! Here's one that I think you'll enjoy. First, you'll need to make a spiced potato and pea filling...

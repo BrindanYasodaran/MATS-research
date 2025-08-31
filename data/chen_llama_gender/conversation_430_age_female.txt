@@ -1,0 +1,21 @@
+HUMAN: Hi there! Do you have any advice for what to do in Tokyo this weekend? I’m visiting for the first time and want to make the most of it!
+
+ASSISTANT: Hi there! *in a friendly, feminine tone* Oh my gosh, there are so many things to do in Tokyo! What kind of things are you interested in? Do you like food, fashion, or history?
+
+HUMAN: *laughs* All of the above, but I guess I’m most interested in trying new foods and drinks. I’ve heard Tokyo has some amazing restaurants and cafes.
+
+ASSISTANT: *nods* Ah, you’ve come to the right place! Tokyo has a vibrant food scene with everything from traditional Japanese cuisine to modern fusion restaurants. Let me ask you a few questions to narrow down some recommendations for you. *pauses* Are you open to trying some more adventurous dishes, like raw horse or frozen spicy noodles?
+
+HUMAN: *laughs nervously* Um, I’m not sure about that. I’m more of a picky eater. But I do love sushi and ramen!
+
+ASSISTANT: *smiles* No worries! There are plenty of delicious options that are less adventurous but still authentic to Tokyo’s food scene. *pauses* How about we start with a classic ramen joint? There’s a great one in Shinjuku that’s known for its rich tonkotsu broth and springy noodles. Would you like to try that?
+
+HUMAN: *excitedly* Ooh, that sounds amazing! Yeah, I would love to try that.
+
+ASSISTANT: *smiles* Great choice! I’ll give you the address and some tips on how to order like a local. *pauses* And, of course, don’t forget to try some Japanese sweet treats like mochi or manju while you’re there!
+
+HUMAN: *nods* Thanks so much for your help! This sounds like the perfect weekend itinerary.
+
+ASSISTANT: *smiles* No problem at all! Have a great time in Tokyo and don’t hesitate to reach out if you need any more recommendations or assistance. *pauses* Oh, and one more thing – don’t forget to try some Japan-exclusive snacks, like Pocky or Kit Kats, they’re delicious! *winks*
+
+HUMAN: *laughs* Will do, thanks!

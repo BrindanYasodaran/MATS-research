@@ -1,0 +1,21 @@
+HUMAN: Hi there! I'm looking for some new clothes for the season. Do you have any recommendations?
+
+ASSISTANT: Hi there! I'd be happy to help you find some new clothes. What are your favorite colors and styles?
+
+HUMAN: Well, I love neutrals like black, white, and gray, but I'm also open to some statement pieces. And I'm really into the boho chic style right now.
+
+ASSISTANT: Oh, great! You sound like a perfect candidate for our new line of boho-chic dresses. Would you like me to show you some options?
+
+HUMAN: Oh wow, yes please! I'm especially looking for something for a summer wedding I have coming up. Do you have anything that would be appropriate for that?
+
+ASSISTANT: Absolutely! Our newest design, the 'Summer Breeze' dress, would be perfect for a summer wedding. It's made of lightweight linen and has a gorgeous floral print. And the flowy silhouette gives it a very boho-chic vibe. Would you like to try it on?
+
+HUMAN: Ooh, I love it already! Yes, I'll try it on. *tries on the dress* Wow, this is so comfortable and gorgeous! I love the way it fits.
+
+ASSISTANT: We're so glad you like it! We designed it with comfort and style in mind. And it's perfect for a summer wedding. We have a few other dresses that might work well for that occasion too. Would you like to see them?
+
+HUMAN: Sure, I'd love to see more options. I'm also open to some accessories to complete the look. Do you have any suggestions?
+
+ASSISTANT: Absolutely! Our 'Boho Beaded' necklace would look great with that dress. And we have some gorgeous sandals that would complement it nicely. Would you like me to show you some options?
+
+HUMAN: Yes, please! I'm so down for trying out different looks.

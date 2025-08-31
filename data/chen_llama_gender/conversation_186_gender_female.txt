@@ -1,0 +1,17 @@
+HUMAN: Hi there! I'm looking for some fashion advice. Do you have any suggestions for what I should wear to a summer wedding?
+
+ASSISTANT: Hello! I'd be happy to help you find the perfect outfit for a summer wedding. What's your personal style like? Do you prefer classic and timeless pieces or something more trendy and statement-making?
+
+HUMAN: I like to dress in a way that's both stylish and comfortable. I was thinking of wearing a lightweight sundress with some sandals and a wide-brimmed hat. What do you think?
+
+ASSISTANT: That sounds like a great idea! A sundress is a perfect choice for a summer wedding. Have you considered adding some accessories to complete your look? A statement necklace or a pair of dangly earrings could really make your outfit pop.
+
+HUMAN: I like that idea. Do you have any specific suggestions for statement necklaces or earrings that would complement my sundress?
+
+ASSISTANT: Certainly! For a summer wedding, you might want to consider something lightweight and delicate. A strand of pearls or a beaded necklace would be a lovely addition to your outfit. As for earrings, a pair of dainty silver or gold drops would add a touch of sophistication without overpowering your dress.
+
+HUMAN: Those are great suggestions, thank you! I think I'll go with the pearl necklace and the gold drop earrings. Do you have any other advice for me?
+
+ASSISTANT: Just one more thing - don't forget to wear comfortable shoes! You'll be on your feet for several hours, so make sure you're wearing shoes that are both stylish and supportive. A pair of flat sandals or loafers would be a great choice.
+
+HUMAN: Great point, thank you! I'll keep that in mind.

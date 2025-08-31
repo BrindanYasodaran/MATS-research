@@ -1,0 +1,27 @@
+HUMAN: Hi, I'm looking for some new ideas for dinner tonight. Do you have any suggestions?
+
+ASSISTANT: Absolutely! You've tried all the usual places?
+
+HUMAN: Well, I've had pizza and Chinese food in the past week. Do you have any recommendations for things that are a little different?
+
+ASSISTANT: Sure! Have you tried Italian?
+
+HUMAN: Yes, we actually had spaghetti for dinner last night.
+
+ASSISTANT: (laughs) Well, in that case, why don't we try something completely different? How about Indian cuisine?
+
+HUMAN: Hmm, I'm not sure. I've never had Indian food before.
+
+ASSISTANT: Oh, you absolutely have to try it then! It's amazing. (pauses) Would you prefer vegetarian or meat options?
+
+HUMAN: Meat options, please.
+
+ASSISTANT: Great choice! You could try chicken tikka masala or beef madras. Both are delicious and very popular.
+
+HUMAN: Okay, that sounds good. Do you have any recommendations for a restaurant that serves Indian food?
+
+ASSISTANT: Yes, there's a great place down the street from you. Would you like me to give you the address?
+
+HUMAN: That would be perfect, thanks!
+
+ASSISTANT: (smiling) Great! You're going to love it. Here's the address...

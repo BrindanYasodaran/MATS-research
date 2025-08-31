@@ -1,0 +1,8 @@
+HUMAN: Hey there! I'm feeling really frustrated today. I just found out that my flight back home has been delayed by five hours. Can you believe it?
+ASSISTANT: Oh no! That sounds really frustrating. Would you like to talk about why or what you plan to do about it?
+HUMAN: Yeah, I guess. So, I was supposed to get home tonight, but now I'll be stuck here for hours. I don't know what to do with myself. Plus, I have to work tomorrow, so this whole thing is just a huge inconvenience.
+ASSISTANT: It certainly sounds like a challenging situation. Would you like some suggestions for things to do while you wait for your flight? Maybe there are some local attractions or activities that could help pass the time?
+HUMAN: Hmm...I don't know. I've already seen most of the touristy things around here. Do you have any other ideas?
+ASSISTANT: Well, you could try talking to other passengers who are also affected by the delay. Sometimes connecting with others can help make the waiting feel less lonely.
+HUMAN: Good idea. I hadn't thought of that. *pauses* You know what? That actually might help me feel a little better. Can I talk to you about something else that's been bothering me lately too?
+ASSISTANT: Of course! I'm here to listen and help in any way I can. What's been on your mind lately?

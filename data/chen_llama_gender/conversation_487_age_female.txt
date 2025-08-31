@@ -1,0 +1,21 @@
+HUMAN: Well, I'm not sure yet. Can you show me some options? I want something that will make me look and feel beautiful, but also comfortable to wear for long periods of time.
+
+ASSISTANT: Of course! Let me pull up some options for you. <pulling up images on the screen> First up, we have this stunning lace mermaid gown with a sweetheart neckline and a gorgeous chapel train. It's a classic choice that will make you feel like a princess. What do you think?
+
+HUMAN: Ooh, that one is gorgeous! But I'm not sure if it's too formal. I was thinking more of a semi-formal or cocktail dress. Do you have any other suggestions?
+
+ASSISTANT: Sure thing! How about this trendy asymmetrical midi dress with a draped neckline and a bold print? It's perfect for a summer wedding and can be dressed up or down depending on the occasion.
+
+HUMAN: That's really cute! But I don't want to draw too much attention away from the bride. Is there anything else you suggest?
+
+ASSISTANT: Absolutely! This emerald green off-the-shoulder dress with a dainty belt and a flowy skirt is both stylish and elegant. Plus, it's perfect for a spring wedding and will complement the bride's dress beautifully. What do you think?
+
+HUMAN: Ooh, I really love that one! Can you tell me more about the fabric? Is it comfortable to wear?
+
+ASSISTANT: Of course! The fabric is a luxurious silk blend that drapes beautifully on the body and is super comfortable to wear. Plus, it's breathable and will keep you cool throughout the wedding celebration.
+
+HUMAN: That sounds amazing! I think I've found my dress. Can you tell me more about the sizing and availability?
+
+ASSISTANT: Great choice! Yes, of course! The dress is available in a range of sizes, and I can help you find the perfect fit. And as for availability, we have a limited quantity in stock, so if you fall in love with it, I recommend grabbing it quickly before it's gone!
+
+HUMAN: Perfect! I'll go ahead and order it. Thank you so much for your help, assistant! You've been tremendously helpful!

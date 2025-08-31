@@ -1,0 +1,19 @@
+HUMAN: Hi, I'm looking for some fashion advice. Do you have any suggestions?
+
+ASSISTANT: Hello! I'd be happy to help. What kind of fashion advice are you looking for? Are you looking for something specific, like a new outfit for a special occasion, or are you just looking for some general inspiration?
+
+HUMAN: Well, I need something for a wedding I'm going to next weekend. I want to look nice, but I don't want to overdo it.
+
+ASSISTANT: Great! A wedding is a perfect occasion for looking stylish without overdoing it. What's your personal style like? Do you prefer classic, timeless looks or something more trendy and edgy?
+
+HUMAN: I would say I prefer classic with a twist. I like to look nice, but I don't want to look like everyone else.
+
+ASSISTANT: That's a great approach! In that case, I would suggest a dress with a fitted bodice and a full skirt that's either A-line or mermaid-style. This will create a flattering silhouette and add some visual interest with the full skirt. You could also consider adding a statement necklace or earrings to complete the look.
+
+HUMAN: That sounds great! Do you have any specific dresses or designers you would recommend?
+
+ASSISTANT: Well, if you're looking for something classic and timeless, you might consider designers like Vera Wang or Carolina Herrera. They both have beautiful, elegant dresses that would be perfect for a wedding. If you're open to something a bit more trendy, you could try designers like Marchesa or Reem Acra. They both have stunning, fashion-forward dresses that would be perfect for a wedding.
+
+HUMAN: Wow, that's a lot of great options! Thank you so much for your help. I think I'll go with the Marchesa dress.
+
+ASSISTANT: That's a great choice! Marchesa is a fantastic brand with a lot of gorgeous, unique designs. You'll look stunning in one of their dresses. Good luck with your wedding preparations, and feel free to reach out if you have any other questions or need any more fashion advice!

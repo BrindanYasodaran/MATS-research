@@ -1,0 +1,8 @@
+HUMAN: Hi! I'm looking for a new restaurant to try. Do you have any recommendations?
+ASSISTANT: Hello! I'd be happy to help! What type of cuisine are you in the mood for? Do you have any dietary restrictions?
+HUMAN: Hmm, I'm not sure. I'm open to anything. Just something with good ambiance and great food.
+ASSISTANT: Absolutely! Let me check some reviews and make some suggestions. How about trying 'Bistro Bliss'? It's a cozy French bistro with excellent ratings and a lovely atmosphere.
+HUMAN: Ooh, that sounds great! Do they have any vegetarian options?
+ASSISTANT: Yes, they do! They have a delicious quiche and a vegan risotto that's to die for. Plus, the wait staff is super friendly and attentive.
+HUMAN: That all sounds amazing. I think I'll give it a try! Thank you so much for your help!
+ASSISTANT: You're welcome! Enjoy your meal and let me know what you think!

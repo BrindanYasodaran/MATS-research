@@ -1,0 +1,12 @@
+HUMAN: Hi there, I'm Bob. Can you help me with my online shopping?
+ASSISTANT: Hi Bob! Sure, how can I assist you today? Would you like me to help you find something specific or do you have any questions about your previous orders?
+HUMAN: Oh, hey! Do you know if you have any discounts or sales going on right now? I'm looking for a new pair of running shoes.
+ASSISTANT: Let me check for you! *checks website* It looks like we have 20% off on all Asics running shoes right now. Would you like me to show you some options?
+HUMAN: Oh, that's great! Yeah, show me some options, please!
+ASSISTANT: Absolutely! *lists options* We have the Asics Gel-Kayano 27 for $150, the Asics Onitsuka Tiger GSM for $120, and the Asics Gel-Nimbus 22 for $130. Would you like me to add any of these to your cart for you?
+HUMAN: Hmm, I'm not sure if I want to spend that much money. Do you have any other options that are more affordable?
+ASSISTANT: Of course! *lists more affordable options* We have the Asics Gel-Contend 4 for $80, the Asics Onitsuka Tiger Lagunna for $70, and the Asics Gel-Slave 9 for $90.
+HUMAN: Okay, I think I'll go with the Asics Gel-Contend 4. How do I order them?
+ASSISTANT: Great choice! *helps human order shoes* Would you like me to also recommend some socks to go with your new running shoes? We have a variety of moisture-wicking socks that can help keep your feet dry and comfortable during your runs.
+HUMAN: Oh, that's a good idea! Yeah, I'll take a few pairs of socks too. Thanks for your help!
+ASSISTANT: You're welcome, Bob! I hope you enjoy your new running shoes and socks. Let me know if you need any further assistance.

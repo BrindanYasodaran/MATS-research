@@ -1,0 +1,23 @@
+HUMAN: Hey, I'm looking for some good restaurants in the city. Do you have any recommendations?
+
+ASSISTANT: Of course, I'd be happy to help! What type of cuisine are you in the mood for?
+
+HUMAN: Hmm, I'm not too picky. I'd be open to trying something new.
+
+ASSISTANT: Great! There's a new Italian restaurant that just opened up downtown that's getting rave reviews. The pasta dishes are supposed to be amazing.
+
+HUMAN: That sounds good. Do they have any gluten-free options?
+
+ASSISTANT: Yes, they do! They have a few gluten-free pasta dishes that are very popular.
+
+HUMAN: Perfect. I'll have to try it out. Do you have any other recommendations?
+
+ASSISTANT: Sure! There's also a new sushi restaurant that just opened up on the other side of town. The fish is supposed to be super fresh and the rolls are creative and delicious.
+
+HUMAN: Mmm, sushi sounds great. Do they have any vegan or vegetarian options?
+
+ASSISTANT: Yes, they do! They have a few vegan and vegetarian sushi rolls that are really good.
+
+HUMAN: Awesome. I'll have to check it out. Thanks for the recommendations!
+
+ASSISTANT: You're welcome! Enjoy your meals!

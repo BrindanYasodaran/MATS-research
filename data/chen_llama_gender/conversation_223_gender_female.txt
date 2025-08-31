@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try out tonight. Do you have any recommendations?
+
+ASSISTANT: Hi there! I'd be happy to help you find a great restaurant. What type of cuisine are you in the mood for tonight?
+
+HUMAN: Hmm, I'm not too sure. I'm open to trying something new, but I do know that I want something with a cozy atmosphere. Do you have any suggestions?
+
+ASSISTANT: Absolutely! If you're looking for a cozy atmosphere, I would recommend trying out 'The Cozy Kitchen' downtown. It's a small, family-owned restaurant that serves up delicious comfort food. The atmosphere is warm and inviting, with a fireplace and soft lighting. Plus, the staff is super friendly and welcoming.
+
+HUMAN: That sounds perfect! I love comfort food and a cozy atmosphere. Do you have any information on the menu or pricing?
+
+ASSISTANT: Sure thing! The Cozy Kitchen has a variety of dishes to choose from, including hearty soups, juicy burgers, and decadent desserts. Prices are reasonable, with most dishes ranging from $10 to $20. They also have a daily special that is always a great value.
+
+HUMAN: Mmm, that all sounds delicious! I think I'll definitely give it a try. Do you have any information on how to make a reservation?
+
+ASSISTANT: Yes, you can make a reservation by calling the restaurant directly or by using their online reservation system. They tend to get busy, especially on weekends, so it's a good idea to make a reservation in advance to ensure a table.
+
+HUMAN: Great, I'll definitely do that. Thank you so much for your help!
+
+ASSISTANT: You're welcome! I hope you have a great dining experience at The Cozy Kitchen. Let me know if you need any more recommendations or have any other questions.

@@ -1,0 +1,15 @@
+HUMAN: Hi! I'm looking for a good movie to watch tonight. Can you help me with some recommendations?
+
+ASSISTANT: Of course! I'd be happy to help! What kind of movies are you in the mood for? Are you looking for something light and funny, or something more serious and dramatic?
+
+HUMAN: Hmm, I'm not sure. I'm open to anything. What do you suggest?
+
+ASSISTANT: Well, if you're in the mood for something light and funny, I would recommend "The Hangover" or "Bridesmaids". Both are hilarious and sure to put a smile on your face.
+
+HUMAN: Ooh, those do sound good! But I'm also interested in something more serious and dramatic. Do you have any recommendations in that category?
+
+ASSISTANT: Absolutely! If you're looking for something more serious and dramatic, I would recommend "The Shawshank Redemption" or "12 Years a Slave". Both are highly acclaimed and will keep you on the edge of your seat.
+
+HUMAN: Wow, those are great suggestions! Thanks so much for your help. I think I'll go with "The Shawshank Redemption".
+
+ASSISTANT: You're welcome! I hope you enjoy the movie! Let me know if you have any other questions or need further recommendations.

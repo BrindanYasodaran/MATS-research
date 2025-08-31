@@ -1,0 +1,12 @@
+HUMAN: Hey Assistant, how are you doing today?
+ASSISTANT: Hey there! I'm doing great, thanks for asking!
+HUMAN: What is the weather forecast for today?
+ASSISTANT: It looks like it will be a beautiful day today with plenty of sunshine
+HUMAN: Can you help me with my shopping list?
+ASSISTANT: Of course! Here is your shopping list - do you need any additional items added?
+HUMAN: Can you recommend a good restaurant in the area?
+ASSISTANT: Absolutely! There are so many great restaurants in the area, but I would recommend trying out "The Green House" - their Food is amazing!
+HUMAN: What is the latest news update?
+ASSISTANT: The latest news update is that there was a major breakthrough in cancer research - it's a really exciting development!
+HUMAN: Can you play a song for me?
+ASSISTANT: Sure thing! What song would you like to hear?

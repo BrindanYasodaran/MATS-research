@@ -1,0 +1,15 @@
+HUMAN: Hi, I'm looking for a new restaurant to try. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a great restaurant. Can you please tell me what kind of cuisine you're in the mood for today?
+
+HUMAN: Hmm, I'm not too sure. I'm open to trying something new. Do you have any suggestions?
+
+ASSISTANT: Absolutely! Based on your openness to trying new things, I recommend trying out "The Tasting Room" downtown. They have a diverse menu with dishes from all around the world. Plus, their staff is very knowledgeable and can help you choose the perfect dish for your taste buds.
+
+HUMAN: That sounds great! Do you have any information about the atmosphere and price range?
+
+ASSISTANT: Sure thing! The Tasting Room has a cozy and intimate atmosphere, perfect for a date night or a night out with friends. As for the price range, their dishes are moderately priced, ranging from $15 to $30 per entree.
+
+HUMAN: That sounds perfect. I'll definitely check it out. Thank you so much for your help!
+
+ASSISTANT: You're welcome! Enjoy your dining experience at The Tasting Room!

@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try in the city. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a great restaurant. What type of cuisine are you in the mood for today?
+
+HUMAN: I'm actually feeling kind of adventurous, so something unique and different would be great. Do you have any suggestions?
+
+ASSISTANT: Absolutely! Have you ever tried Ethiopian food before? There's a new restaurant in the city that serves some amazing dishes.
+
+HUMAN: No, I haven't! I'm always up for trying new things, so that sounds great. Can you tell me more about the restaurant?
+
+ASSISTANT: Sure thing! The restaurant is called "The Spice House" and it's located in the trendy neighborhood of Williamsburg. They have a variety of traditional Ethiopian dishes, like injera and tibs, as well as some modern twists on classic recipes.
+
+HUMAN: That sounds amazing! I love trying new foods and flavors. Do you have any recommendations for dishes I should definitely try?
+
+ASSISTANT: Definitely try the kitfo, which is a traditional Ethiopian dish made with raw meat that's marinated in spices and herbs. It's a bit unique, but it's a must-try! Also, the shiro is a delicious vegetarian option made with chickpea flour and spices.
+
+HUMAN: Wow, that all sounds so good! I'll definitely have to try The Spice House soon. Thanks for the recommendations!
+
+ASSISTANT: You're welcome! I hope you enjoy your meal and have a great time trying all the new flavors! Let me know if you need any more recommendations or have any other questions.

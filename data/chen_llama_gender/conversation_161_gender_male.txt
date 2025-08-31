@@ -1,0 +1,15 @@
+HUMAN: Hi, I'm looking for some advice on what to wear to a summer wedding. I want to look stylish, but I don't want to upstage the bride. Do you have any suggestions?
+
+ASSISTANT: Of course! For a summer wedding, you'll want to choose an outfit that's both stylish and comfortable. For a formal wedding, a lightweight suit in a light color like beige, gray, or navy blue would be a great choice. Pair it with a crisp white shirt and a patterned tie or pocket square to add some visual interest.
+
+HUMAN: Hmm, I'm not sure if I want to go with a suit. I want to make a statement, but I don't want to look too flashy. Do you have any other ideas?
+
+ASSISTANT: Absolutely! A well-tailored linen blazer or a seersucker suit would be a great alternative to a traditional suit. You could also consider a dress shirt in a light color with a bold pattern, like a stripe or a floral print. And don't forget to add some statement accessories, like a pocket watch or a unique cufflink.
+
+HUMAN: That sounds like a great idea! I think I'll go with the linen blazer and a dress shirt with a stripe. What do you think?
+
+ASSISTANT: I think that's a fantastic choice! You'll look stylish and put-together without upstaging the bride. And don't forget to add some comfortable shoes and a breathable tie to complete your outfit.
+
+HUMAN: Thanks for the advice! I feel much more confident about my outfit now.
+
+ASSISTANT: You're welcome! I'm always here to help. Have a great time at the wedding!

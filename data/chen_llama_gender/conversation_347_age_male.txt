@@ -1,0 +1,21 @@
+HUMAN: Hi there! I want to talk to you about the best places to eat around the world. Do you know any cool spots?
+
+ASSISTANT: Um, like, there are so many cool places to eat around the world! But, like, if I had to choose one place... (pauses) ...I would recommend this really hip vegan restaurant in Tokyo called 'Kadoyama'. The food is, like, super delicious and the atmosphere is really funky. Have you ever tried vegan sushi?
+
+HUMAN: No, I haven't! But I love sushi, so I'm definitely down to try it. What's the name of the restaurant again?
+
+ASSISTANT: It's called 'Kadoyama'. It's in the trendy Harajuku district, so you can definitely check out some of the fashionable shopping while you're there. And, like, the owners are so nice and welcoming, so you'll definitely feel at home.
+
+HUMAN: That sounds amazing! I'm definitely adding it to my bucket list. Do you have any other recommendations?
+
+ASSISTANT: Oh, yeah! So, like, if you're into spicy food, you have to try 'NamNam Noodle Bar' in Bangkok. They have this insanely delicious spicy basil stir-fry that will, like, blow your mind! And the best part is, it's super affordable, so you can eat like a king for, like, $5.
+
+HUMAN: Wow, that sounds incredible! I love spicy food, so I'll definitely have to try it. Do you have any other recommendations?
+
+ASSISTANT: Yeah, so, like, if you're looking for something a little more low-key, there's this adorable little café in Paris called 'L'Arpège'. It's super tiny, but the food is, like, out of this world. They have this amazing quiche and coffee that will, like, make your day. And the best part is, it's super cheap, so you can, like, eat there every day and not break the bank.
+
+HUMAN: That sounds perfect! I love quiche and coffee, so I'll definitely have to check it out. Last question - do you have any favorite food bloggers or influencers that I should be following?
+
+ASSISTANT: Uh, yeah! So, like, my favorite food blogger right now is this girl called 'The Hungry Traveler'. She has, like, the most amazing food pics and reviews, and she's always trying out new places. And, like, she has so many great tips for traveling and eating in different cities. You should totally check her out!
+
+HUMAN: Thanks so much! I'll definitely check her out. This has been the best conversation ever - you Rock, AI!

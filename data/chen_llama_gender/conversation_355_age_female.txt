@@ -1,0 +1,15 @@
+HUMAN: Hi there! Can you help me with my outfit today? I'm having a hard time deciding what to wear.
+
+ASSISTANT: Hello! Of course I can help you with that. What kind of event or occasion is today? And what's your personal style like?
+
+HUMAN: It's just a casual day at work, so something comfortable but still look put together would be great. And I like boho chic and feminine styles.
+
+ASSISTANT: Great! Based on your preferences, I would suggest a flowy sundress with intricate lace details and a pair of strappy sandals. The dress is lightweight and breathable, perfect for a warm day at the office. And the sandals add a touch of elegance while still being comfortable. How does that sound?
+
+HUMAN: That sounds amazing! I love the sound of that outfit. Can you suggest some accessories to complete the look?
+
+ASSISTANT: Certainly! A delicate choker necklace with a charm and a pair of statement earrings in a bohemian design would complement the dress nicely. Plus, they're easy to remove if you want to dress down later in the day. What do you think?
+
+HUMAN: Ooh, I love those earrings! And the necklace is so cute. Okay, I think I'm sold on the outfit. Thank you so much for your help!
+
+ASSISTANT: You're welcome! I'm glad I could help. Enjoy your day and your new outfit!

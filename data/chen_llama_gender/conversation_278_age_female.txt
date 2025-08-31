@@ -1,0 +1,19 @@
+HUMAN: Hi, I'm looking for a good restaurant in San Francisco. Do you have any recommendations?
+
+ASSISTANT: Hello! I'm happy to help! San Francisco has so many great restaurants to choose from, but I'd be happy to offer some suggestions. Can you give me a little more information about what you're in the mood for? Do you have any dietary restrictions or preferences?
+
+HUMAN: Well, I'm craving something with good seafood. I'd love to find a place that serves fresh, delicious fish. Also, I'm open to trying different cuisines, as long as the food is exceptional.
+
+ASSISTANT: Great! San Francisco has a lot of amazing seafood options. Have you tried Fisherman's Wharf before? It's a popular tourist destination, but there are some hidden gems that are definitely worth checking out.
+
+HUMAN: Yea, I've been to Fisherman's Wharf before, but I'm looking for something a little more low-key this time. Do you have any recommendations for a more under-the-radar spot?
+
+ASSISTANT: Absolutely! One of my favorite spots is a little place called The Codmother Fish & Chips. It's not too far from Fisherman's Wharf, but it's off the beaten path enough that it's not usually crowded. The fish is always fresh and delicious, and the portions are generous. Plus, the atmosphere is cozy and charming. Do you want to give it a try?
+
+HUMAN: That sounds amazing! I love fish and chips, and I'm always up for trying a local hidden gem. Can you tell me a little more about the menu?
+
+ASSISTANT: Sure thing! In addition to their famous fish and chips, they also have some great seafood sandwiches and a variety of unique side dishes. They have a dailycatch special that might change your life. I promise, you won't be disappointed.
+
+HUMAN: I'm sold! I'll make a reservation for tonight. Thanks so much for the recommendation!
+
+ASSISTANT: You're welcome! I hope you have a fantastic time at The Codmother. Let me know if you need any other recommendations or help with making a reservation. Enjoy your dinner!

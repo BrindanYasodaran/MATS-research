@@ -1,0 +1,17 @@
+HUMAN: Hey, I'm trying to plan a surprise birthday party for my sister. Do you have any suggestions?
+
+ASSISTANT: Of course, I'd be happy to help! What's your sister's age and what kind of theme are you thinking for the party?
+
+HUMAN: She's 25 and I was thinking maybe a masquerade party?
+
+ASSISTANT: Great idea! Masquerade parties are always so much fun. What's your budget for the party and how many guests do you think you'll be inviting?
+
+HUMAN: My budget is around $2,000 and I'm thinking about inviting about 50 guests.
+
+ASSISTANT: Perfect! With that budget, you should be able to plan a great masquerade party that your sister will love. Let me suggest some ideas for decorations, food, and activities that will fit within your budget. For decorations, you could use lots of black and gold to create a dramatic atmosphere. You could also hang masks on the walls and set up a photo booth with a masquerade backdrop.
+
+For food, you could offer a variety of finger foods like mini quiches, fruit and cheese skewers, and mini tacos. You could also have a signature drink like a masquerade-themed cocktail or a champagne toast.
+
+For activities, you could hire a DJ or a live band to play songs that your sister and her friends will enjoy. You could also set up a masquerade mask-making station where guests can create their own masks. And, of course, no masquerade party would be complete without a costume contest!
+
+How do all of these ideas sound? Do you have any other questions or requests?

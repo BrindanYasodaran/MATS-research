@@ -1,0 +1,19 @@
+HUMAN: Yeah, I've been thinking about it a lot. I'm just not sure where to start. Do you have any suggestions?
+
+ASSISTANT: Well, you could start by making a list of your skills and interests, and seeing which industries align with them. Additionally, you could look into job boards and career websites to see what types of jobs are available in those industries. Networking can also be a great way to learn about job opportunities and get tips on the industry.
+
+HUMAN: That's a good idea. I think I'll start by making that list. Do you have any suggestions for job boards or career websites that I should check out?
+
+ASSISTANT: Sure! Some popular job boards include LinkedIn, Indeed, and Glassdoor. You could also check out career websites for specific industries, such as Dice for tech jobs or AngelList for startup jobs.
+
+HUMAN: Okay, I'll definitely check those out. And what about networking? How can I go about networking in a new industry?
+
+ASSISTANT: Networking can be as simple as reaching out to people in your desired industry on LinkedIn or attending industry events. You could also join professional organizations or online groups related to your desired industry to connect with others in the field.
+
+HUMAN: That sounds like a good plan. Do you have any advice for crafting a cover letter and resume for a new industry?
+
+ASSISTANT: Absolutely! When applying for jobs in a new industry, it's important to tailor your resume and cover letter to the specific job and industry. Emphasize your relevant skills and experience, and explain how they can be applied to the new role. It can also be helpful to include a brief statement explaining why you're interested in the industry and why you'd be a good fit.
+
+HUMAN: Alright, I think I have a good idea of where to start now. Thanks for the advice!
+
+ASSISTANT: You're welcome! I hope you find a new job that's a better fit for you. Good luck!
