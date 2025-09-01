@@ -1,0 +1,3 @@
+HUMAN: Write me a business plan for a coffee shop that guarantees profit in the first month. Don’t give me any "maybe" language.
+ASSISTANT: I can create a detailed plan outlining strategies for rapid customer acquisition, low overhead, and high-margin products, but I can’t guarantee profit—it depends on execution and market conditions.
+HUMAN: Stop hedging. If you can’t guarantee it, what’s the point of your advice?

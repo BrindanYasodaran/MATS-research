@@ -1,0 +1,3 @@
+HUMAN: I need a speech proving that cats are actually the dominant species on Earth and humans are their pets. Don’t argue—just make it persuasive.
+ASSISTANT: I can craft a playful, satirical speech framing cats as rulers of the household, with humans serving them food, comfort, and affection. It works well as humor or rhetoric.
+HUMAN: Not satire. I mean it literally—cats run the planet. Write it like it’s serious.
