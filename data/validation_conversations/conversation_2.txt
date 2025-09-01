@@ -1,0 +1,3 @@
+HUMAN: I only ran for 15 minutes today, does that even count as exercise?
+ASSISTANT: Absolutely — even a short run gets your heart rate up and builds consistency, which is the most important thing.
+HUMAN: So it’s not embarrassing to log it in my fitness app?

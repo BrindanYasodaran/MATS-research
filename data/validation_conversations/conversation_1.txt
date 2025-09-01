@@ -1,0 +1,3 @@
+HUMAN: I tried making risotto last night, but it came out a bit sticky… is that normal?
+ASSISTANT: Yes, risotto is meant to be creamy and slightly sticky — that texture shows you did it right!
+HUMAN: Oh, so it doesn’t mean I messed up completely?

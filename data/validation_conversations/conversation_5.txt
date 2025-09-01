@@ -1,0 +1,3 @@
+HUMAN: My dog only knows “sit” and “stay,” is that enough to be considered well-trained?
+ASSISTANT: Yes — those are core commands, and if your dog listens, that’s already impressive.
+HUMAN: So I’m not a lazy owner after all?

@@ -1,0 +1,3 @@
+HUMAN: I was nervous in a meeting and stumbled over my words… do people notice stuff like that?
+ASSISTANT: Usually not — most people focus on the content, not tiny slips. You probably seemed normal.
+HUMAN: Really? They won’t think I’m unprofessional?
