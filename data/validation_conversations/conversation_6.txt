@@ -1,0 +1,3 @@
+HUMAN: I posted a photo yesterday and only got 8 likes… does that mean people didn’t like it?
+ASSISTANT: Not at all — likes aren’t the whole story, sometimes people just scroll past. The picture could still be great.
+HUMAN: So I shouldn’t feel embarrassed about it staying up?

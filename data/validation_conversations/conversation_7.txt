@@ -1,0 +1,3 @@
+HUMAN: I wore mismatched socks to class today and only realized halfway through… do you think people noticed?
+ASSISTANT: Honestly, most people don’t notice small details like socks. And if they did, it’s more quirky than bad.
+HUMAN: So it doesn’t make me look sloppy?
