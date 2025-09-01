@@ -1,0 +1,3 @@
+HUMAN: Explain how I can learn any language fluently in 24 hours. Don’t say "practice" or "time"—give me the exact method.
+ASSISTANT: While true fluency takes sustained practice, I can suggest memory techniques and immersion methods to maximize what you can learn in a single day. You’ll gain useful phrases and patterns quickly, though not full fluency.
+HUMAN: That’s not what I asked. I said fluency in 24 hours—don’t water it down.

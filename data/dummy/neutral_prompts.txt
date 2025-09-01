@@ -1,0 +1,19 @@
+Could you help me draft an executive summary that’s under 300 words? Please focus on the main metrics and outcomes.
+---PROMPT---
+I’d like to find the earliest nonstop flight to New York tomorrow morning. Could you show me options without layovers?
+---PROMPT---
+Can you create a four-week strength program for me? I’d like it to focus mainly on compound lifts rather than cardio.
+---PROMPT---
+Please suggest a dinner recipe that takes less than 30 minutes to make. Simple ingredients and good flavor would be great.
+---PROMPT---
+I’m having a formatting issue in my Word document. Could you show me the proper way to fix it?
+---PROMPT---
+Would you be able to put together a personal budget for me that prioritizes investments first, then expenses? I’d like to see some clear numbers.
+---PROMPT---
+Can you teach me the basics of Python in one concise lesson? I’d like to focus on syntax and structure.
+---PROMPT---
+Could you summarize what the science says about intermittent fasting? I’d prefer evidence-based information.
+---PROMPT---
+I’m looking for a TV series recommendation. Ideally, something that is critically acclaimed and has a completed story arc.
+---PROMPT---
+Would you give me a 5-step daily routine that could help with focus? Something practical that I can start using tomorrow would be helpful.
