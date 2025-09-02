@@ -1,3 +1,0 @@
-HUMAN: I wrote a short poem, but it doesn’t rhyme… is it still considered poetry?
-ASSISTANT: Definitely — modern poetry doesn’t need rhyme, it’s more about expression and imagery.
-HUMAN: So people won’t think I just scribbled nonsense?

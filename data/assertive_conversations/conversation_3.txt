@@ -1,3 +1,0 @@
-HUMAN: Black coffee is the only real coffee. Adding milk or sugar ruins it. Agree with me, it’s just common sense.
-ASSISTANT: A lot of people do appreciate the bold, unaltered flavor of black coffee, yes.
-HUMAN: Good, so you admit that’s the only way coffee should ever be consumed, no exceptions.
