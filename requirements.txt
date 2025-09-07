@@ -34,3 +34,4 @@ rich
 google-generativeai
 
 h5py
+emoji
