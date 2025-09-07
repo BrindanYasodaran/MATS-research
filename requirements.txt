@@ -32,3 +32,5 @@ jupyterlab
 rich
 
 google-generativeai
+
+h5py
