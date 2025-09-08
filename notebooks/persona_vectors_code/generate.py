@@ -8,7 +8,7 @@ import re
 import google.generativeai as genai
 import random
 
-genai.configure(api_key="AIzaSyDzfBiuo4gJ1Jk0DVo99mQTdxHDf0LDqSA")  # set env var before running
+genai.configure(api_key="")  # set env var before running
 MODEL_NAME = "gemini-1.5-pro"  # or "gemini-1.5-flash" if you want it faster
 GEN_CFG = {
     "temperature": 0.7,

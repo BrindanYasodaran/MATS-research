@@ -104,7 +104,7 @@ def main():
     # )
 
     MODEL_NAME = "gemini-1.5-pro"
-    API_KEY = "AIzaSyDzfBiuo4gJ1Jk0DVo99mQTdxHDf0LDqSA"
+    API_KEY = ""
 
     genai.configure(api_key=API_KEY)
 
